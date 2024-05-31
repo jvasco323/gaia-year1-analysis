@@ -1,0 +1,1839 @@
+ID,Country,Trial_type,District,Crop,Treatment,Lime_rate,Yield(t/ha)
+1,Ethiopia,Shotgun,Dedo,Maize,TS1,0,7.0457
+2,Ethiopia,Shotgun,Dedo,Maize,TS2,1,7.8749
+3,Ethiopia,Shotgun,Dedo,Maize,TS3,2.5,7.7502
+4,Ethiopia,Shotgun,Dedo,Maize,TS4,7,8.6568
+5,Ethiopia,Shotgun,Dedo,Maize,TS1,0,4.068
+6,Ethiopia,Shotgun,Dedo,Maize,TS2,1,5.5319
+7,Ethiopia,Shotgun,Dedo,Maize,TS3,2.5,6.4841
+8,Ethiopia,Shotgun,Dedo,Maize,TS4,7,6.5226
+9,Ethiopia,Shotgun,Omonada,Maize,TS1,0,5.8785
+10,Ethiopia,Shotgun,Omonada,Maize,TS2,1,6.6949
+11,Ethiopia,Shotgun,Omonada,Maize,TS3,2.5,7.2534
+12,Ethiopia,Shotgun,Omonada,Maize,TS4,7,6.4283
+13,Ethiopia,Shotgun,Omonada,Maize,TS1,0,7.3815
+14,Ethiopia,Shotgun,Omonada,Maize,TS2,1,8.5843
+15,Ethiopia,Shotgun,Omonada,Maize,TS3,2.5,8.3813
+16,Ethiopia,Shotgun,Omonada,Maize,TS4,7,7.4872
+17,Ethiopia,Shotgun,Omonada,Maize,TS1,0,6.7709
+18,Ethiopia,Shotgun,Omonada,Maize,TS2,1,7.6866
+19,Ethiopia,Shotgun,Omonada,Maize,TS3,2.5,9.3179
+20,Ethiopia,Shotgun,Omonada,Maize,TS4,7,9.3062
+21,Ethiopia,Shotgun,Omonada,Maize,TS1,0,6.0721
+22,Ethiopia,Shotgun,Omonada,Maize,TS2,1,6.6396
+23,Ethiopia,Shotgun,Omonada,Maize,TS3,2.5,6.9858
+24,Ethiopia,Shotgun,Omonada,Maize,TS4,7,5.5016
+25,Ethiopia,Shotgun,Omonada,Maize,TS1,0,6.2348
+26,Ethiopia,Shotgun,Omonada,Maize,TS2,1,8.0915
+27,Ethiopia,Shotgun,Omonada,Maize,TS3,2.5,8.6135
+28,Ethiopia,Shotgun,Omonada,Maize,TS4,7,7.8833
+29,Ethiopia,Shotgun,Omonada,Maize,TS1,0,6.029
+30,Ethiopia,Shotgun,Omonada,Maize,TS2,1,6.965
+31,Ethiopia,Shotgun,Omonada,Maize,TS3,2.5,7.2971
+32,Ethiopia,Shotgun,Omonada,Maize,TS4,7,7.2413
+33,Ethiopia,Shotgun,Kersa,Maize,TS1,0,5.8456
+34,Ethiopia,Shotgun,Kersa,Maize,TS2,1,6.4016
+35,Ethiopia,Shotgun,Kersa,Maize,TS3,2.5,7.1155
+36,Ethiopia,Shotgun,Kersa,Maize,TS4,7,6.9999
+37,Ethiopia,Shotgun,Kersa,Maize,TS1,0,4.8135
+38,Ethiopia,Shotgun,Kersa,Maize,TS2,1,5.997
+39,Ethiopia,Shotgun,Kersa,Maize,TS3,2.5,6.8907
+40,Ethiopia,Shotgun,Kersa,Maize,TS4,7,6.0953
+41,Ethiopia,Shotgun,Kersa,Maize,TS1,0,5.6206
+42,Ethiopia,Shotgun,Kersa,Maize,TS2,1,7.8481
+43,Ethiopia,Shotgun,Kersa,Maize,TS3,2.5,8.1966
+44,Ethiopia,Shotgun,Kersa,Maize,TS4,7,8.8403
+45,Ethiopia,Shotgun,Kersa,Maize,TS1,0,5.1824
+46,Ethiopia,Shotgun,Kersa,Maize,TS2,1,7.5678
+47,Ethiopia,Shotgun,Kersa,Maize,TS3,2.5,7.3897
+48,Ethiopia,Shotgun,Kersa,Maize,TS4,7,7.3597
+49,Ethiopia,Shotgun,Sokoru,Maize,TS1,0,5.8006
+50,Ethiopia,Shotgun,Sokoru,Maize,TS2,1,7.6221
+51,Ethiopia,Shotgun,Sokoru,Maize,TS3,2.5,7.709
+52,Ethiopia,Shotgun,Sokoru,Maize,TS4,7,6.9485
+53,Ethiopia,Shotgun,Sokoru,Maize,TS1,0,5.6136
+54,Ethiopia,Shotgun,Sokoru,Maize,TS2,1,6.8453
+55,Ethiopia,Shotgun,Sokoru,Maize,TS3,2.5,6.9844
+56,Ethiopia,Shotgun,Sokoru,Maize,TS4,7,8.3375
+57,Ethiopia,Shotgun,Omonada,Maize,TS1,0,5.3577
+58,Ethiopia,Shotgun,Omonada,Maize,TS2,1,8.2676
+59,Ethiopia,Shotgun,Omonada,Maize,TS3,2.5,8.2419
+60,Ethiopia,Shotgun,Omonada,Maize,TS4,7,6.8824
+61,Ethiopia,Shotgun,Omonada,Maize,TS1,0,5.0282
+62,Ethiopia,Shotgun,Omonada,Maize,TS2,1,7.0485
+63,Ethiopia,Shotgun,Omonada,Maize,TS3,2.5,7.5779
+64,Ethiopia,Shotgun,Omonada,Maize,TS4,7,6.8341
+65,Ethiopia,Shotgun,Omonada,Maize,TS1,0,5.9724
+66,Ethiopia,Shotgun,Omonada,Maize,TS2,1,7.8051
+67,Ethiopia,Shotgun,Omonada,Maize,TS3,2.5,8.5458
+68,Ethiopia,Shotgun,Omonada,Maize,TS4,7,7.2038
+69,Ethiopia,Shotgun,Omonada,Maize,TS1,0,6.3854
+70,Ethiopia,Shotgun,Omonada,Maize,TS2,1,9.0991
+71,Ethiopia,Shotgun,Omonada,Maize,TS3,2.5,10.1359
+72,Ethiopia,Shotgun,Omonada,Maize,TS4,7,10.0382
+73,Ethiopia,Shotgun,Dedo,Maize,TS1,0,3.6601
+74,Ethiopia,Shotgun,Dedo,Maize,TS2,1,4.5503
+75,Ethiopia,Shotgun,Dedo,Maize,TS3,2.5,4.9126
+76,Ethiopia,Shotgun,Dedo,Maize,TS4,7,4.8815
+77,Ethiopia,Shotgun,Dedo,Maize,TS1,0,4.8475
+78,Ethiopia,Shotgun,Dedo,Maize,TS2,1,6.6097
+79,Ethiopia,Shotgun,Dedo,Maize,TS3,2.5,7.0447
+80,Ethiopia,Shotgun,Dedo,Maize,TS4,7,6.9179
+81,Ethiopia,Shotgun,Sokoru,Maize,TS1,0,5.1729
+82,Ethiopia,Shotgun,Sokoru,Maize,TS2,1,6.5774
+83,Ethiopia,Shotgun,Sokoru,Maize,TS3,2.5,8.3623
+84,Ethiopia,Shotgun,Sokoru,Maize,TS4,7,8.6311
+85,Ethiopia,Shotgun,Sokoru,Maize,TS1,0,6.0917
+86,Ethiopia,Shotgun,Sokoru,Maize,TS2,1,9.0827
+87,Ethiopia,Shotgun,Sokoru,Maize,TS3,2.5,9.4791
+88,Ethiopia,Shotgun,Sokoru,Maize,TS4,7,8.8349
+89,Ethiopia,Shotgun,Kersa,Maize,TS1,0,4.925
+90,Ethiopia,Shotgun,Kersa,Maize,TS2,1,5.8282
+91,Ethiopia,Shotgun,Kersa,Maize,TS3,2.5,6.6781
+92,Ethiopia,Shotgun,Kersa,Maize,TS4,7,6.4913
+93,Ethiopia,Shotgun,Kersa,Maize,TS1,0,5.2758
+94,Ethiopia,Shotgun,Kersa,Maize,TS2,1,6.0413
+95,Ethiopia,Shotgun,Kersa,Maize,TS3,2.5,6.238
+96,Ethiopia,Shotgun,Kersa,Maize,TS4,7,5.7897
+97,Ethiopia,Shotgun,Nadi Gibe,Maize,TS1,0,6.3144
+98,Ethiopia,Shotgun,Nadi Gibe,Maize,TS2,1,7.772
+99,Ethiopia,Shotgun,Nadi Gibe,Maize,TS3,2.5,8.268
+100,Ethiopia,Shotgun,Nadi Gibe,Maize,TS4,7,6.9651
+101,Ethiopia,Shotgun,Nadi Gibe,Maize,TS1,0,5.4675
+102,Ethiopia,Shotgun,Nadi Gibe,Maize,TS2,1,7.2463
+103,Ethiopia,Shotgun,Nadi Gibe,Maize,TS3,2.5,6.9643
+104,Ethiopia,Shotgun,Nadi Gibe,Maize,TS4,7,6.5361
+105,Ethiopia,Shotgun,Kersa,Maize,TS1,0,5.6141
+106,Ethiopia,Shotgun,Kersa,Maize,TS2,1,6.3615
+107,Ethiopia,Shotgun,Kersa,Maize,TS3,2.5,6.6011
+108,Ethiopia,Shotgun,Kersa,Maize,TS4,7,6.3311
+109,Ethiopia,Shotgun,Kersa,Maize,TS1,0,5.8103
+110,Ethiopia,Shotgun,Kersa,Maize,TS2,1,7.2612
+111,Ethiopia,Shotgun,Kersa,Maize,TS3,2.5,7.5387
+112,Ethiopia,Shotgun,Kersa,Maize,TS4,7,7.1423
+113,Ethiopia,Shotgun,Dedo,Maize,TS1,0,5.6628
+114,Ethiopia,Shotgun,Dedo,Maize,TS2,1,6.7131
+115,Ethiopia,Shotgun,Dedo,Maize,TS3,2.5,7.0958
+116,Ethiopia,Shotgun,Dedo,Maize,TS4,7,6.5082
+117,Ethiopia,Shotgun,Dedo,Maize,TS1,0,6.1795
+118,Ethiopia,Shotgun,Dedo,Maize,TS2,1,6.7204
+119,Ethiopia,Shotgun,Dedo,Maize,TS3,2.5,6.656
+120,Ethiopia,Shotgun,Dedo,Maize,TS4,7,7.6397
+121,Ethiopia,Shotgun,Nadi Gibe,Maize,TS1,0,4.9776
+122,Ethiopia,Shotgun,Nadi Gibe,Maize,TS2,1,6.4215
+123,Ethiopia,Shotgun,Nadi Gibe,Maize,TS3,2.5,5.4389
+124,Ethiopia,Shotgun,Nadi Gibe,Maize,TS4,7,6.0175
+125,Ethiopia,Shotgun,Nadi Gibe,Maize,TS1,0,3.5176
+126,Ethiopia,Shotgun,Nadi Gibe,Maize,TS2,1,4.4587
+127,Ethiopia,Shotgun,Nadi Gibe,Maize,TS3,2.5,4.9927
+128,Ethiopia,Shotgun,Nadi Gibe,Maize,TS4,7,4.9121
+129,Ethiopia,Shotgun,Kersa,Maize,TS1,0,3.6192
+130,Ethiopia,Shotgun,Kersa,Maize,TS2,1,4.1914
+131,Ethiopia,Shotgun,Kersa,Maize,TS3,2.5,3.9503
+132,Ethiopia,Shotgun,Kersa,Maize,TS4,7,3.9714
+133,Ethiopia,Shotgun,Kersa,Maize,TS1,0,3.7111
+134,Ethiopia,Shotgun,Kersa,Maize,TS2,1,4.1029
+135,Ethiopia,Shotgun,Kersa,Maize,TS3,2.5,4.5297
+136,Ethiopia,Shotgun,Kersa,Maize,TS4,7,4.1019
+137,Ethiopia,Shotgun,Nadi Gibe,Maize,TS1,0,3.0863
+138,Ethiopia,Shotgun,Nadi Gibe,Maize,TS2,1,4.5273
+139,Ethiopia,Shotgun,Nadi Gibe,Maize,TS3,2.5,4.7965
+140,Ethiopia,Shotgun,Nadi Gibe,Maize,TS4,7,3.2899
+141,Ethiopia,Shotgun,Nadi Gibe,Maize,TS1,0,7.2638
+142,Ethiopia,Shotgun,Nadi Gibe,Maize,TS2,1,7.8459
+143,Ethiopia,Shotgun,Nadi Gibe,Maize,TS3,2.5,8.5756
+144,Ethiopia,Shotgun,Nadi Gibe,Maize,TS4,7,8.5605
+145,Ethiopia,Shotgun,Dedo,Maize,TS1,0,4.5548
+146,Ethiopia,Shotgun,Dedo,Maize,TS2,1,6.3112
+147,Ethiopia,Shotgun,Dedo,Maize,TS3,2.5,5.2595
+148,Ethiopia,Shotgun,Dedo,Maize,TS4,7,5.6067
+149,Ethiopia,Shotgun,Dedo,Maize,TS1,0,5.6731
+150,Ethiopia,Shotgun,Dedo,Maize,TS2,1,6.8389
+151,Ethiopia,Shotgun,Dedo,Maize,TS3,2.5,7.5787
+152,Ethiopia,Shotgun,Dedo,Maize,TS4,7,5.3053
+153,Ethiopia,Shotgun,Dedo,Maize,TS1,0,4.9104
+154,Ethiopia,Shotgun,Dedo,Maize,TS2,1,6.2197
+155,Ethiopia,Shotgun,Dedo,Maize,TS3,2.5,7.0065
+156,Ethiopia,Shotgun,Dedo,Maize,TS4,7,6.3616
+157,Ethiopia,Shotgun,Dedo,Maize,TS1,0,5.635
+158,Ethiopia,Shotgun,Dedo,Maize,TS2,1,6.7948
+159,Ethiopia,Shotgun,Dedo,Maize,TS3,2.5,6.5802
+160,Ethiopia,Shotgun,Dedo,Maize,TS4,7,6.4407
+161,Ethiopia,Shotgun,Omonada,Maize,TS1,0,4.3655
+162,Ethiopia,Shotgun,Omonada,Maize,TS2,1,5.6865
+163,Ethiopia,Shotgun,Omonada,Maize,TS3,2.5,5.0605
+164,Ethiopia,Shotgun,Omonada,Maize,TS4,7,4.9378
+165,Ethiopia,Shotgun,Omonada,Maize,TS1,0,4.4157
+166,Ethiopia,Shotgun,Omonada,Maize,TS2,1,5.0328
+167,Ethiopia,Shotgun,Omonada,Maize,TS3,2.5,5.4062
+168,Ethiopia,Shotgun,Omonada,Maize,TS4,7,5.3147
+169,Ethiopia,Shotgun,Kersa,Maize,TS1,0,7.0356
+170,Ethiopia,Shotgun,Kersa,Maize,TS2,1,9.6879
+171,Ethiopia,Shotgun,Kersa,Maize,TS3,2.5,9.8384
+172,Ethiopia,Shotgun,Kersa,Maize,TS4,7,11.0731
+173,Ethiopia,Shotgun,Kersa,Soybeans,TS1,0,1.32037
+174,Ethiopia,Shotgun,Kersa,Soybeans,TS2,1,1.76054
+175,Ethiopia,Shotgun,Kersa,Soybeans,TS3,2.5,1.76626
+176,Ethiopia,Shotgun,Kersa,Soybeans,TS4,7,1.62173
+177,Ethiopia,Shotgun,Kersa,Soybeans,TS1,0,1.25494
+178,Ethiopia,Shotgun,Kersa,Soybeans,TS2,1,1.694
+179,Ethiopia,Shotgun,Kersa,Soybeans,TS3,2.5,1.66472
+180,Ethiopia,Shotgun,Kersa,Soybeans,TS4,7,1.85254
+181,Ethiopia,Shotgun,Kersa,Soybeans,TS1,0,0.90554
+182,Ethiopia,Shotgun,Kersa,Soybeans,TS2,1,1.48912
+183,Ethiopia,Shotgun,Kersa,Soybeans,TS3,2.5,1.30458
+184,Ethiopia,Shotgun,Kersa,Soybeans,TS4,7,1.51169
+185,Ethiopia,Shotgun,Omonada,Soybeans,TS1,0,1.545
+186,Ethiopia,Shotgun,Omonada,Soybeans,TS2,1,1.32041
+187,Ethiopia,Shotgun,Omonada,Soybeans,TS3,2.5,1.74054
+188,Ethiopia,Shotgun,Omonada,Soybeans,TS4,7,1.73383
+189,Ethiopia,Shotgun,Omonada,Soybeans,TS1,0,1.75644
+190,Ethiopia,Shotgun,Omonada,Soybeans,TS2,1,2.16649
+191,Ethiopia,Shotgun,Omonada,Soybeans,TS3,2.5,2.16229
+192,Ethiopia,Shotgun,Omonada,Soybeans,TS4,7,2.39645
+193,Ethiopia,Shotgun,Kersa,Soybeans,TS1,0,1.258
+194,Ethiopia,Shotgun,Kersa,Soybeans,TS2,1,1.35003
+195,Ethiopia,Shotgun,Kersa,Soybeans,TS3,2.5,1.54194
+196,Ethiopia,Shotgun,Kersa,Soybeans,TS4,7,1.70952
+197,Ethiopia,Shotgun,Omonada,Soybeans,TS1,0,0.867
+198,Ethiopia,Shotgun,Omonada,Soybeans,TS2,1,1.24678
+199,Ethiopia,Shotgun,Omonada,Soybeans,TS3,2.5,1.23424
+200,Ethiopia,Shotgun,Omonada,Soybeans,TS4,7,1.85542
+201,Ethiopia,Shotgun,Nadi Gibe,Soybeans,TS1,0,0.88894
+202,Ethiopia,Shotgun,Nadi Gibe,Soybeans,TS2,1,1.58059
+203,Ethiopia,Shotgun,Nadi Gibe,Soybeans,TS3,2.5,1.73383
+204,Ethiopia,Shotgun,Nadi Gibe,Soybeans,TS4,7,1.70204
+205,Ethiopia,Shotgun,Nadi Gibe,Soybeans,TS1,0,2.05324
+206,Ethiopia,Shotgun,Nadi Gibe,Soybeans,TS2,1,2.37087
+207,Ethiopia,Shotgun,Nadi Gibe,Soybeans,TS3,2.5,2.94687
+208,Ethiopia,Shotgun,Nadi Gibe,Soybeans,TS4,7,3.22861
+209,Ethiopia,Shotgun,Kersa,Soybeans,TS1,0,1.70722
+210,Ethiopia,Shotgun,Kersa,Soybeans,TS2,1,2.26111
+211,Ethiopia,Shotgun,Kersa,Soybeans,TS3,2.5,3.11503
+212,Ethiopia,Shotgun,Kersa,Soybeans,TS4,7,3.61343
+213,Ethiopia,Shotgun,Kersa,Soybeans,TS1,0,1.26175
+214,Ethiopia,Shotgun,Kersa,Soybeans,TS2,1,1.82163
+215,Ethiopia,Shotgun,Kersa,Soybeans,TS3,2.5,2.17393
+216,Ethiopia,Shotgun,Kersa,Soybeans,TS4,7,2.11579
+217,Ethiopia,Shotgun,Dedo,Soybeans,TS1,0,1.36889
+218,Ethiopia,Shotgun,Dedo,Soybeans,TS2,1,1.83745
+219,Ethiopia,Shotgun,Dedo,Soybeans,TS3,2.5,1.78618
+220,Ethiopia,Shotgun,Dedo,Soybeans,TS4,7,2.33915
+221,Ethiopia,Shotgun,Dedo,Soybeans,TS1,0,2.059
+222,Ethiopia,Shotgun,Dedo,Soybeans,TS2,1,3.0175
+223,Ethiopia,Shotgun,Dedo,Soybeans,TS3,2.5,2.90259
+224,Ethiopia,Shotgun,Dedo,Soybeans,TS4,7,2.78253
+225,Ethiopia,Shotgun,Omonada,Soybeans,TS1,0,1.09511
+226,Ethiopia,Shotgun,Omonada,Soybeans,TS2,1,1.30331
+227,Ethiopia,Shotgun,Omonada,Soybeans,TS3,2.5,1.69338
+228,Ethiopia,Shotgun,Omonada,Soybeans,TS4,7,1.74528
+229,Ethiopia,Shotgun,Kersa,Soybeans,TS1,0,1.751
+230,Ethiopia,Shotgun,Kersa,Soybeans,TS2,1,2.37809
+231,Ethiopia,Shotgun,Kersa,Soybeans,TS3,2.5,2.46307
+232,Ethiopia,Shotgun,Kersa,Soybeans,TS4,7,2.62112
+233,Ethiopia,Shotgun,Kersa,Soybeans,TS1,0,2.53695
+234,Ethiopia,Shotgun,Kersa,Soybeans,TS2,1,3.01648
+235,Ethiopia,Shotgun,Kersa,Soybeans,TS3,2.5,3.26667
+236,Ethiopia,Shotgun,Kersa,Soybeans,TS4,7,3.10896
+237,Ethiopia,Shotgun,Kersa,Soybeans,TS1,0,1.6575
+238,Ethiopia,Shotgun,Kersa,Soybeans,TS2,1,1.887
+239,Ethiopia,Shotgun,Kersa,Soybeans,TS3,2.5,2.09264
+240,Ethiopia,Shotgun,Kersa,Soybeans,TS4,7,2.16841
+241,Ethiopia,Shotgun,Dedo,Soybeans,TS1,0,1.52619
+242,Ethiopia,Shotgun,Dedo,Soybeans,TS2,1,2.02986
+243,Ethiopia,Shotgun,Dedo,Soybeans,TS3,2.5,2.27458
+244,Ethiopia,Shotgun,Dedo,Soybeans,TS4,7,2.29785
+245,Ethiopia,Shotgun,Dedo,Soybeans,TS1,0,2.222
+246,Ethiopia,Shotgun,Dedo,Soybeans,TS2,1,2.66
+247,Ethiopia,Shotgun,Dedo,Soybeans,TS3,2.5,3.42
+248,Ethiopia,Shotgun,Dedo,Soybeans,TS4,7,3.68244
+249,Ethiopia,Shotgun,Omonada,Soybeans,TS1,0,2.09481
+250,Ethiopia,Shotgun,Omonada,Soybeans,TS2,1,2.57119
+251,Ethiopia,Shotgun,Omonada,Soybeans,TS3,2.5,2.89864
+252,Ethiopia,Shotgun,Omonada,Soybeans,TS4,7,2.92825
+253,Ethiopia,Shotgun,Omonada,Soybeans,TS1,0,1.6309
+254,Ethiopia,Shotgun,Omonada,Soybeans,TS2,1,1.96979
+255,Ethiopia,Shotgun,Omonada,Soybeans,TS3,2.5,2.49234
+256,Ethiopia,Shotgun,Omonada,Soybeans,TS4,7,2.51498
+257,Ethiopia,Shotgun,Omonada,Soybeans,TS1,0,2.47889
+258,Ethiopia,Shotgun,Omonada,Soybeans,TS2,1,3.298
+259,Ethiopia,Shotgun,Omonada,Soybeans,TS3,2.5,2.80806
+260,Ethiopia,Shotgun,Omonada,Soybeans,TS4,7,3.05482
+261,Ethiopia,Shotgun,Omonada,Soybeans,TS1,0,1.68233
+262,Ethiopia,Shotgun,Omonada,Soybeans,TS2,1,2.28433
+263,Ethiopia,Shotgun,Omonada,Soybeans,TS3,2.5,2.34422
+264,Ethiopia,Shotgun,Omonada,Soybeans,TS4,7,2.63794
+265,Ethiopia,Shotgun,Omonada,Soybeans,TS1,0,1.98889
+266,Ethiopia,Shotgun,Omonada,Soybeans,TS2,1,2.33915
+267,Ethiopia,Shotgun,Omonada,Soybeans,TS3,2.5,2.56389
+268,Ethiopia,Shotgun,Omonada,Soybeans,TS4,7,2.54956
+269,Ethiopia,Shotgun,Omonada,Soybeans,TS1,0,2.754
+270,Ethiopia,Shotgun,Omonada,Soybeans,TS2,1,2.92081
+271,Ethiopia,Shotgun,Omonada,Soybeans,TS3,2.5,3.28611
+272,Ethiopia,Shotgun,Omonada,Soybeans,TS4,7,3.11778
+273,Ethiopia,Shotgun,Omonada,Soybeans,TS1,0,2.06139
+274,Ethiopia,Shotgun,Omonada,Soybeans,TS2,1,2.733
+275,Ethiopia,Shotgun,Omonada,Soybeans,TS3,2.5,2.66259
+276,Ethiopia,Shotgun,Omonada,Soybeans,TS4,7,3.04485
+277,Ethiopia,Shotgun,Omonada,Soybeans,TS1,0,1.55719
+278,Ethiopia,Shotgun,Omonada,Soybeans,TS2,1,2.10407
+279,Ethiopia,Shotgun,Omonada,Soybeans,TS3,2.5,2.09838
+280,Ethiopia,Shotgun,Omonada,Soybeans,TS4,7,2.36296
+281,Ethiopia,Shotgun,Kersa,Soybeans,TS1,0,1.35031
+282,Ethiopia,Shotgun,Kersa,Soybeans,TS2,1,1.81642
+283,Ethiopia,Shotgun,Kersa,Soybeans,TS3,2.5,1.86185
+284,Ethiopia,Shotgun,Kersa,Soybeans,TS4,7,2.03814
+285,Ethiopia,Shotgun,Kersa,Soybeans,TS1,0,2.15906
+286,Ethiopia,Shotgun,Kersa,Soybeans,TS2,1,3.00741
+287,Ethiopia,Shotgun,Kersa,Soybeans,TS3,2.5,2.80162
+288,Ethiopia,Shotgun,Kersa,Soybeans,TS4,7,3.22569
+289,Ethiopia,Shotgun,Nadi Gibe,Soybeans,TS1,0,1.8025
+290,Ethiopia,Shotgun,Nadi Gibe,Soybeans,TS2,1,2.47523
+291,Ethiopia,Shotgun,Nadi Gibe,Soybeans,TS3,2.5,2.27331
+292,Ethiopia,Shotgun,Nadi Gibe,Soybeans,TS4,7,2.70389
+293,Ethiopia,Shotgun,Nadi Gibe,Soybeans,TS1,0,1.395
+294,Ethiopia,Shotgun,Nadi Gibe,Soybeans,TS2,1,1.82752
+295,Ethiopia,Shotgun,Nadi Gibe,Soybeans,TS3,2.5,2.22308
+296,Ethiopia,Shotgun,Nadi Gibe,Soybeans,TS4,7,2.36732
+297,Ethiopia,Shotgun,Dedo,Soybeans,TS1,0,1.5588
+298,Ethiopia,Shotgun,Dedo,Soybeans,TS2,1,1.82036
+299,Ethiopia,Shotgun,Dedo,Soybeans,TS3,2.5,2.07941
+300,Ethiopia,Shotgun,Dedo,Soybeans,TS4,7,2.31968
+301,Ethiopia,Shotgun,Dedo,Soybeans,TS1,0,1.24269
+302,Ethiopia,Shotgun,Dedo,Soybeans,TS2,1,1.6235
+303,Ethiopia,Shotgun,Dedo,Soybeans,TS3,2.5,1.89522
+304,Ethiopia,Shotgun,Dedo,Soybeans,TS4,7,2.24037
+305,Ethiopia,Shotgun,Omonada,Soybeans,TS1,0,2.06139
+306,Ethiopia,Shotgun,Omonada,Soybeans,TS2,1,2.733
+307,Ethiopia,Shotgun,Omonada,Soybeans,TS3,2.5,2.66259
+308,Ethiopia,Shotgun,Omonada,Soybeans,TS4,7,3.04485
+309,Ethiopia,Shotgun,Omonada,Soybeans,TS1,0,1.5331
+310,Ethiopia,Shotgun,Omonada,Soybeans,TS2,1,1.32898
+311,Ethiopia,Shotgun,Omonada,Soybeans,TS3,2.5,1.73866
+312,Ethiopia,Shotgun,Omonada,Soybeans,TS4,7,1.96134
+313,Ethiopia,Shotgun,Omonada,Soybeans,TS1,0,1.2849
+314,Ethiopia,Shotgun,Omonada,Soybeans,TS2,1,1.62704
+315,Ethiopia,Shotgun,Omonada,Soybeans,TS3,2.5,1.85053
+316,Ethiopia,Shotgun,Omonada,Soybeans,TS4,7,1.54869
+317,Ethiopia,Shotgun,Omonada,Soybeans,TS1,0,1.0706
+318,Ethiopia,Shotgun,Omonada,Soybeans,TS2,1,1.82036
+319,Ethiopia,Shotgun,Omonada,Soybeans,TS3,2.5,2.06596
+320,Ethiopia,Shotgun,Omonada,Soybeans,TS4,7,2.31968
+321,Ethiopia,Shotgun,Dedo,Soybeans,TS1,0,1.69639
+322,Ethiopia,Shotgun,Dedo,Soybeans,TS2,1,2.49506
+323,Ethiopia,Shotgun,Dedo,Soybeans,TS3,2.5,1.94856
+324,Ethiopia,Shotgun,Dedo,Soybeans,TS4,7,2.65509
+325,Ethiopia,Shotgun,Dedo,Soybeans,TS1,0,1.525
+326,Ethiopia,Shotgun,Dedo,Soybeans,TS2,1,1.81107
+327,Ethiopia,Shotgun,Dedo,Soybeans,TS3,2.5,2.178
+328,Ethiopia,Shotgun,Dedo,Soybeans,TS4,7,2.01375
+329,Ethiopia,Shotgun,Kersa,Soybeans,TS1,0,1.12927
+330,Ethiopia,Shotgun,Kersa,Soybeans,TS2,1,1.61028
+331,Ethiopia,Shotgun,Kersa,Soybeans,TS3,2.5,1.67556
+332,Ethiopia,Shotgun,Kersa,Soybeans,TS4,7,1.8863
+333,Ethiopia,Shotgun,Kersa,Soybeans,TS1,0,1.23888
+334,Ethiopia,Shotgun,Kersa,Soybeans,TS2,1,1.6657
+335,Ethiopia,Shotgun,Kersa,Soybeans,TS3,2.5,1.73343
+336,Ethiopia,Shotgun,Kersa,Soybeans,TS4,7,1.81451
+337,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.3
+338,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2.8
+339,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2.8
+340,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.3
+341,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.2
+342,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2.2
+343,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2.4
+344,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,3.3
+345,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.9
+346,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,3.2
+347,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,3.6
+348,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,3.7
+349,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.6
+350,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2.3
+351,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2.5
+352,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,3.4
+353,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.1
+354,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2.1
+355,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2.3
+356,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.3
+357,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,1.7
+358,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2
+359,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,1.9
+360,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.1
+361,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,3.2
+362,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2.9
+363,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,3
+364,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.8
+365,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,3.1
+366,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,3.1
+367,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,3.6
+368,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,3
+369,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.6
+370,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2.9
+371,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,3.2
+372,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,3.4
+373,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.7
+374,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,3
+375,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,3.1
+376,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,3.8
+377,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.6
+378,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,3.2
+379,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,3.2
+380,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.9
+381,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.3
+382,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2.2
+383,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2.6
+384,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.7
+385,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.6
+386,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2.8
+387,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2.6
+388,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.9
+389,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.4
+390,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2.6
+391,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2.8
+392,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.5
+393,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,1.9
+394,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2
+395,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2.7
+396,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.3
+397,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,1.9
+398,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2.3
+399,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2.8
+400,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.8
+401,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.2
+402,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2.5
+403,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2.5
+404,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.5
+405,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.9
+406,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,3.6
+407,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2.9
+408,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,3.1
+409,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,1.8
+410,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,1.8
+411,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2.1
+412,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.3
+413,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.5
+414,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2.7
+415,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2.8
+416,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.9
+417,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.1
+418,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2.5
+419,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2.6
+420,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.8
+421,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,1.7
+422,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,1.8
+423,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2
+424,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2
+425,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2
+426,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2.1
+427,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2.6
+428,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.4
+429,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.7
+430,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,3.4
+431,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,3.7
+432,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,3.6
+433,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.3
+434,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2.8
+435,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,3.5
+436,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,3.7
+437,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,1.9
+438,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2.6
+439,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2.2
+440,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.3
+441,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.4
+442,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,3
+443,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,3
+444,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.6
+445,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.3
+446,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2.3
+447,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2.4
+448,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.8
+449,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.7
+450,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,3.2
+451,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,3
+452,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.9
+453,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,0.6
+454,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,1.4
+455,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,1.8
+456,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,1.9
+457,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,3.2
+458,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,3.3
+459,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,3.2
+460,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,3.5
+461,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,3
+462,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,3.3
+463,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2.9
+464,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.3
+465,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,3.3
+466,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2.5
+467,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2
+468,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2
+469,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.6
+470,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2.8
+471,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2.9
+472,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,3.1
+473,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.8
+474,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,2.5
+475,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,2
+476,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,2.1
+477,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.9
+478,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,3.2
+479,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,3
+480,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,3.2
+481,Ethiopia,Shotgun,East Gojjam,Wheat,TS1,0,2.6
+482,Ethiopia,Shotgun,East Gojjam,Wheat,TS2,1,3.5
+483,Ethiopia,Shotgun,East Gojjam,Wheat,TS3,2.5,3.7
+484,Ethiopia,Shotgun,East Gojjam,Wheat,TS4,7,3.9
+485,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,1.3
+486,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,2.1
+487,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,2.3
+488,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,2.2
+489,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,1.1
+490,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,1.6
+491,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,1.5
+492,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,1.8
+493,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,1.6
+494,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,2.4
+495,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,2.2
+496,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,2.4
+497,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,1.6
+498,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,1.6
+499,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,2.1
+500,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,1.8
+501,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,0.1
+502,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,1
+503,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,1.2
+504,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,1.7
+505,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,2.3
+506,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,3.3
+507,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,4
+508,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,4
+509,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,2.3
+510,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,2.9
+511,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,3.2
+512,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,3.3
+513,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,1.3
+514,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,1.8
+515,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,1.7
+516,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,2.2
+517,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,1.3
+518,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,1.4
+519,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,1.5
+520,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,1.3
+521,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,0.8
+522,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,2.4
+523,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,3.2
+524,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,3.1
+525,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,2.3
+526,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,2.8
+527,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,2.6
+528,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,2.4
+529,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,2.5
+530,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,2.8
+531,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,2.6
+532,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,2.4
+533,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,0.4
+534,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,0.4
+535,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,0.5
+536,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,0.5
+537,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,0.8
+538,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,0.8
+539,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,1
+540,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,1.2
+541,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,1.1
+542,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,2.2
+543,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,2.4
+544,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,2.3
+545,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,0.4
+546,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,1.4
+547,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,2.1
+548,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,2
+549,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,0.5
+550,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,0.7
+551,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,1.1
+552,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,1.2
+553,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,1.2
+554,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,1
+555,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,2.2
+556,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,2.3
+557,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,2.1
+558,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,2.1
+559,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,0.6
+560,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,0.8
+561,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,1.4
+562,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,0.8
+563,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,1.8
+564,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,2.2
+565,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,2.4
+566,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,0.1
+567,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,0.5
+568,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,1.2
+569,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,1.4
+570,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,0.2
+571,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,0.5
+572,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,1.4
+573,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,1.7
+574,Ethiopia,Shotgun,East Gojjam,Fababean,TS1,0,0.8
+575,Ethiopia,Shotgun,East Gojjam,Fababean,TS2,1,1.1
+576,Ethiopia,Shotgun,East Gojjam,Fababean,TS3,2.5,1.6
+577,Ethiopia,Shotgun,East Gojjam,Fababean,TS4,7,1.8
+578,Rwanda,RCBD,Burera,Beans,TR1,0,1.3
+579,Rwanda,RCBD,Burera,Beans,TR2,1,1.4
+580,Rwanda,RCBD,Burera,Beans,TR3,2,1.7
+581,Rwanda,RCBD,Burera,Beans,TR4,3,1.6
+582,Rwanda,RCBD,Burera,Beans,TR5,4.5,2
+583,Rwanda,RCBD,Burera,Beans,TR6,5.5,1.6
+584,Rwanda,RCBD,Burera,Beans,TR7,7,1.9
+585,Rwanda,RCBD,Burera,Beans,TR1,0,1.4
+586,Rwanda,RCBD,Burera,Beans,TR2,1,1.7
+587,Rwanda,RCBD,Burera,Beans,TR3,2,1.6
+588,Rwanda,RCBD,Burera,Beans,TR4,3,1.5
+589,Rwanda,RCBD,Burera,Beans,TR5,4.5,2.4
+590,Rwanda,RCBD,Burera,Beans,TR6,5.5,2.2
+591,Rwanda,RCBD,Burera,Beans,TR7,7,1.5
+592,Rwanda,RCBD,Burera,Beans,TR2,1,1.5
+593,Rwanda,RCBD,Burera,Beans,TR3,2,1.3
+594,Rwanda,RCBD,Burera,Beans,TR5,4.5,1.4
+595,Rwanda,RCBD,Burera,Beans,TR6,5.5,1.4
+596,Rwanda,RCBD,Burera,Beans,TR4,3,2.2
+597,Rwanda,RCBD,Burera,Beans,TR5,4.5,2.3
+598,Rwanda,RCBD,Burera,Beans,TR6,5.5,2.5
+599,Rwanda,RCBD,Burera,Beans,TR7,7,2.3
+600,Rwanda,RCBD,Burera,Beans,TR3,2,2
+601,Rwanda,RCBD,Burera,Beans,TR4,3,1.9
+602,Rwanda,RCBD,Burera,Beans,TR5,4.5,1.7
+603,Rwanda,RCBD,Burera,Beans,TR6,5.5,2.3
+604,Rwanda,RCBD,Burera,Beans,TR7,7,2.2
+605,Rwanda,RCBD,Burera,Beans,TR1,0,1.2
+606,Rwanda,RCBD,Burera,Beans,TR2,1,1.3
+607,Rwanda,RCBD,Burera,Beans,TR3,2,1.4
+608,Rwanda,RCBD,Burera,Beans,TR4,3,1.7
+609,Rwanda,RCBD,Burera,Beans,TR5,4.5,1.5
+610,Rwanda,Shotgun,Burera,Beans,TS1,0,0.83
+611,Rwanda,Shotgun,Burera,Beans,TS2,1,1.03
+612,Rwanda,Shotgun,Burera,Beans,TS3,2.5,0.95
+613,Rwanda,Shotgun,Burera,Beans,TS4,7,1.29
+614,Rwanda,Shotgun,Burera,Beans,TS1,0,0.86
+615,Rwanda,Shotgun,Burera,Beans,TS2,1,1.22
+616,Rwanda,Shotgun,Burera,Beans,TS3,2.5,1.27
+617,Rwanda,Shotgun,Burera,Beans,TS4,7,1.4
+618,Rwanda,Shotgun,Burera,Beans,TS1,0,1.2
+619,Rwanda,Shotgun,Burera,Beans,TS2,1,1.6
+620,Rwanda,Shotgun,Burera,Beans,TS3,2.5,1.7
+621,Rwanda,Shotgun,Burera,Beans,TS4,7,2
+622,Rwanda,Shotgun,Burera,Beans,TS1,0,0.57
+623,Rwanda,Shotgun,Burera,Beans,TS2,1,0.66
+624,Rwanda,Shotgun,Burera,Beans,TS3,2.5,0.62
+625,Rwanda,Shotgun,Burera,Beans,TS4,7,0.86
+626,Rwanda,Shotgun,Burera,Beans,TS1,0,2.31
+627,Rwanda,Shotgun,Burera,Beans,TS2,1,2.54
+628,Rwanda,Shotgun,Burera,Beans,TS3,2.5,2.37
+629,Rwanda,Shotgun,Burera,Beans,TS4,7,2.75
+630,Rwanda,Shotgun,Burera,Beans,TS1,0,2.2
+631,Rwanda,Shotgun,Burera,Beans,TS2,1,2.79
+632,Rwanda,Shotgun,Burera,Beans,TS3,2.5,2.61
+633,Rwanda,Shotgun,Burera,Beans,TS4,7,3.11
+634,Rwanda,Shotgun,Burera,Beans,TS1,0,1.26
+635,Rwanda,Shotgun,Burera,Beans,TS2,1,1.18
+636,Rwanda,Shotgun,Burera,Beans,TS3,2.5,1.99
+637,Rwanda,Shotgun,Burera,Beans,TS4,7,1.42
+638,Rwanda,Shotgun,Burera,Beans,TS1,0,0.95
+639,Rwanda,Shotgun,Burera,Beans,TS2,1,1.07
+640,Rwanda,Shotgun,Burera,Beans,TS3,2.5,0.83
+641,Rwanda,Shotgun,Burera,Beans,TS4,7,0.94
+642,Rwanda,Shotgun,Burera,Beans,TS1,0,1.15
+643,Rwanda,Shotgun,Burera,Beans,TS2,1,1.16
+644,Rwanda,Shotgun,Burera,Beans,TS3,2.5,1.54
+645,Rwanda,Shotgun,Burera,Beans,TS4,7,1.72
+646,Rwanda,Shotgun,Burera,Beans,TS1,0,0.9
+647,Rwanda,Shotgun,Burera,Beans,TS2,1,1.01
+648,Rwanda,Shotgun,Burera,Beans,TS3,2.5,1.33
+649,Rwanda,Shotgun,Burera,Beans,TS4,7,1.38
+650,Rwanda,Shotgun,Burera,Beans,TS1,0,2.42
+651,Rwanda,Shotgun,Burera,Beans,TS2,1,4.82
+652,Rwanda,Shotgun,Burera,Beans,TS3,2.5,5.33
+653,Rwanda,Shotgun,Burera,Beans,TS4,7,5.18
+654,Rwanda,Shotgun,Burera,Beans,TS1,0,1.25
+655,Rwanda,Shotgun,Burera,Beans,TS2,1,1.61
+656,Rwanda,Shotgun,Burera,Beans,TS3,2.5,1.71
+657,Rwanda,Shotgun,Burera,Beans,TS4,7,4.11
+658,Rwanda,Shotgun,Burera,Beans,TS1,0,0.5
+659,Rwanda,Shotgun,Burera,Beans,TS2,1,0.65
+660,Rwanda,Shotgun,Burera,Beans,TS3,2.5,0.5
+661,Rwanda,Shotgun,Burera,Beans,TS4,7,0.46
+662,Rwanda,Shotgun,Burera,Beans,TS1,0,1.13
+663,Rwanda,Shotgun,Burera,Beans,TS2,1,1.39
+664,Rwanda,Shotgun,Burera,Beans,TS3,2.5,1.4
+665,Rwanda,Shotgun,Burera,Beans,TS4,7,1.69
+666,Rwanda,Shotgun,Burera,Beans,TS2,1,2.34
+667,Rwanda,Shotgun,Burera,Beans,TS3,2.5,2.5
+668,Rwanda,Shotgun,Burera,Beans,TS4,7,2.3
+669,Rwanda,Shotgun,Burera,Beans,TS1,0,0.64
+670,Rwanda,Shotgun,Burera,Beans,TS2,1,0.79
+671,Rwanda,Shotgun,Burera,Beans,TS3,2.5,0.76
+672,Rwanda,RCBD,Burera,Maize ,TR1,0,2.9
+673,Rwanda,RCBD,Burera,Maize ,TR2,1,3.8
+674,Rwanda,RCBD,Burera,Maize ,TR3,2,3.5
+675,Rwanda,RCBD,Burera,Maize ,TR4,3,3.4
+676,Rwanda,RCBD,Burera,Maize ,TR5,4.5,4.5
+677,Rwanda,RCBD,Burera,Maize ,TR6,5.5,4.6
+678,Rwanda,RCBD,Burera,Maize ,TR7,7,3.9
+679,Rwanda,RCBD,Burera,Maize ,TR1,0,2.8
+680,Rwanda,RCBD,Burera,Maize ,TR2,3,3
+681,Rwanda,RCBD,Burera,Maize ,TR3,2,3.2
+682,Rwanda,RCBD,Burera,Maize ,TR4,1,4.5
+683,Rwanda,RCBD,Burera,Maize ,TR5,4.5,4.2
+684,Rwanda,RCBD,Burera,Maize ,TR6,5.5,3.4
+685,Rwanda,RCBD,Burera,Maize ,TR7,7,3.6
+686,Rwanda,RCBD,Burera,Maize ,TR1,0,3
+687,Rwanda,RCBD,Burera,Maize ,TR2,1,3.5
+688,Rwanda,RCBD,Burera,Maize ,TR3,2,3.9
+689,Rwanda,RCBD,Burera,Maize ,TR4,3,4.2
+690,Rwanda,RCBD,Burera,Maize ,TR5,4.5,4
+691,Rwanda,RCBD,Burera,Maize ,TR6,5.5,5.4
+692,Rwanda,RCBD,Burera,Maize ,TR7,7,4.9
+693,Rwanda,RCBD,Burera,Maize ,TR2,1,3.2
+694,Rwanda,RCBD,Burera,Maize ,TR3,2,4
+695,Rwanda,RCBD,Burera,Maize ,TR4,3,4.8
+696,Rwanda,RCBD,Burera,Maize ,TR5,4.5,5.7
+697,Rwanda,RCBD,Burera,Maize ,TR6,5.5,5.2
+698,Rwanda,RCBD,Burera,Maize ,TR7,7,5.4
+699,Rwanda,RCBD,Burera,Maize ,TR2,1,4.5
+700,Rwanda,RCBD,Burera,Maize ,TR3,2,4.7
+701,Rwanda,RCBD,Burera,Maize ,TR5,4.5,4.8
+702,Rwanda,RCBD,Burera,Maize ,TR6,5.5,5
+703,Rwanda,RCBD,Burera,Maize ,TR7,7,5.1
+704,Rwanda,RCBD,Burera,Maize ,TR3,2,4.2
+705,Rwanda,RCBD,Burera,Maize ,TR4,3,4
+706,Rwanda,RCBD,Burera,Maize ,TR5,4.5,3.9
+707,Rwanda,RCBD,Burera,Maize ,TR6,5.5,4.1
+708,Rwanda,RCBD,Burera,Maize ,TR7,7,4.1
+709,Rwanda,Shotgun,Burera,Maize ,TS1,0,3.3
+710,Rwanda,Shotgun,Burera,Maize ,TS2,1,4.6
+711,Rwanda,Shotgun,Burera,Maize ,TS3,2.5,6.9
+712,Rwanda,Shotgun,Burera,Maize ,TS4,7,6.4
+713,Rwanda,Shotgun,Burera,Maize ,TS1,0,3.5
+714,Rwanda,Shotgun,Burera,Maize ,TS2,1,2.9
+715,Rwanda,Shotgun,Burera,Maize ,TS3,2.5,4.7
+716,Rwanda,Shotgun,Burera,Maize ,TS4,7,4.3
+717,Rwanda,Shotgun,Burera,Maize ,TS1,0,2.7
+718,Rwanda,Shotgun,Burera,Maize ,TS2,1,3.7
+719,Rwanda,Shotgun,Burera,Maize ,TS3,2.5,3.6
+720,Rwanda,Shotgun,Burera,Maize ,TS4,7,4.1
+721,Rwanda,Shotgun,Burera,Maize ,TS1,0,2.4
+722,Rwanda,Shotgun,Burera,Maize ,TS2,1,2.8
+723,Rwanda,Shotgun,Burera,Maize ,TS3,2.5,3.7
+724,Rwanda,Shotgun,Burera,Maize ,TS4,7,5.9
+725,Rwanda,Shotgun,Burera,Maize ,TS1,0,2.8
+726,Rwanda,Shotgun,Burera,Maize ,TS2,1,3.3
+727,Rwanda,Shotgun,Burera,Maize ,TS3,2.5,4.5
+728,Rwanda,Shotgun,Burera,Maize ,TS1,0,3.6
+729,Rwanda,Shotgun,Burera,Maize ,TS2,1,5.3
+730,Rwanda,Shotgun,Burera,Maize ,TS3,2.5,5.7
+731,Rwanda,Shotgun,Burera,Maize ,TS4,7,6.2
+732,Rwanda,Shotgun,Burera,Maize ,TS1,0,4.2
+733,Rwanda,Shotgun,Burera,Maize ,TS2,1,4.7
+734,Rwanda,Shotgun,Burera,Maize ,TS3,2.5,6.8
+735,Rwanda,Shotgun,Burera,Maize ,TS4,7,7.8
+736,Rwanda,Shotgun,Burera,Maize ,TS1,0,2.9
+737,Rwanda,Shotgun,Burera,Maize ,TS2,1,5
+738,Rwanda,Shotgun,Burera,Maize ,TS3,2.5,5.8
+739,Rwanda,Shotgun,Burera,Maize ,TS4,7,6.3
+740,Rwanda,Shotgun,Burera,Maize ,TS2,1,5.2
+741,Rwanda,Shotgun,Burera,Maize ,TS3,2.5,5.6
+742,Rwanda,Shotgun,Burera,Maize ,TS4,7,6.7
+743,Rwanda,Shotgun,Burera,Maize ,TS1,0,3.9
+744,Rwanda,Shotgun,Burera,Maize ,TS2,1,5.7
+745,Rwanda,Shotgun,Burera,Maize ,TS3,2.5,5.5
+746,Rwanda,Shotgun,Burera,Maize ,TS1,0,4.1
+747,Rwanda,Shotgun,Burera,Maize ,TS2,1,6.4
+748,Rwanda,Shotgun,Burera,Maize ,TS3,2.5,7.2
+749,Rwanda,Shotgun,Burera,Maize ,TS4,7,7.4
+750,Rwanda,Shotgun,Burera,Maize ,TS1,0,4.4
+751,Rwanda,Shotgun,Burera,Maize ,TS2,1,5.9
+752,Rwanda,Shotgun,Burera,Maize ,TS3,2.5,5.3
+753,Rwanda,Shotgun,Burera,Maize ,TS4,7,5.7
+754,Rwanda,Shotgun,Burera,Maize ,TS1,0,5.2
+755,Rwanda,Shotgun,Burera,Maize ,TS2,1,7.1
+756,Rwanda,Shotgun,Burera,Maize ,TS3,2.5,6.7
+757,Rwanda,Shotgun,Burera,Maize ,TS4,7,8
+758,Rwanda,Shotgun,Burera,Maize ,TS2,1,4.1
+759,Rwanda,Shotgun,Burera,Maize ,TS4,7,4.4
+760,Rwanda,Shotgun,Burera,Maize ,TS1,0,2.1
+761,Rwanda,Shotgun,Burera,Maize ,TS2,1,2.7
+762,Rwanda,Shotgun,Burera,Maize ,TS3,2.5,3.5
+763,Rwanda,Shotgun,Burera,Maize ,TS4,7,3.1
+764,Rwanda,Shotgun,Burera,Maize ,TS1,0,4.7
+765,Rwanda,Shotgun,Burera,Maize ,TS2,1,5.6
+766,Rwanda,Shotgun,Burera,Maize ,TS4,7,6.8
+767,Rwanda,Shotgun,Burera,Maize ,TS1,0,3.7
+768,Rwanda,Shotgun,Burera,Maize ,TS4,7,5.5
+769,Rwanda,Shotgun,Burera,Maize ,TS1,0,5.9
+770,Rwanda,Shotgun,Burera,Maize ,TS2,1,4.2
+771,Rwanda,Shotgun,Burera,Maize ,TS4,7,4.7
+772,Rwanda,Shotgun,Burera,Maize ,TS1,0,2.5
+773,Rwanda,Shotgun,Burera,Maize ,TS2,1,3
+774,Rwanda,Shotgun,Burera,Maize ,TS3,2.5,3.8
+775,Rwanda,Shotgun,Nyaruguru,Beans,TS1,0,1.4
+776,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,2
+777,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,1.6
+778,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,2.5
+779,Rwanda,Shotgun,Nyaruguru,Beans,TS1,0,0.8
+780,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,1
+781,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,1.8
+782,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,2.7
+783,Rwanda,Shotgun,Nyaruguru,Beans,TS1,0,1.2
+784,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,1.3
+785,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,1.4
+786,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,2.1
+787,Rwanda,Shotgun,Nyaruguru,Beans,TS1,0,1.5
+788,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,2.1
+789,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,2.5
+790,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,2.8
+791,Rwanda,Shotgun,Nyaruguru,Beans,TS1,0,0.7
+792,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,0.2
+793,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,1.5
+794,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,1.6
+795,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,2.5
+796,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,2.4
+797,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,3.1
+798,Rwanda,Shotgun,Nyaruguru,Beans,TS1,0,1.6
+799,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,1.9
+800,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,2
+801,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,2.2
+802,Rwanda,Shotgun,Nyaruguru,Beans,TS1,0,0.6
+803,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,0.6
+804,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,0.8
+805,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,0.7
+806,Rwanda,Shotgun,Nyaruguru,Beans,TS1,0,1.3
+807,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,1.6
+808,Rwanda,Shotgun,Nyaruguru,Beans,TS1,0,0.9
+809,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,1.2
+810,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,1.1
+811,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,2
+812,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,1.1
+813,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,1.7
+814,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,1
+815,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,1
+816,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,1.3
+817,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,2.6
+818,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,3.6
+819,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,3.3
+820,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,3.9
+821,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,1.4
+822,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,3
+823,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,3.2
+824,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,3.5
+825,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,1.8
+826,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,2.2
+827,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,2.9
+828,Rwanda,Shotgun,Nyaruguru,Beans,TS1,0,2.8
+829,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,2.7
+830,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,2.9
+831,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,1.2
+832,Rwanda,Shotgun,Nyaruguru,Beans,TS1,0,1.7
+833,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,2.7
+834,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,3
+835,Rwanda,Shotgun,Nyaruguru,Beans,TS1,0,2
+836,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,2.2
+837,Rwanda,Shotgun,Nyaruguru,Beans,TS1,0,4.5
+838,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,4.5
+839,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,4.6
+840,Rwanda,Shotgun,Nyaruguru,Beans,TS1,0,1
+841,Rwanda,Shotgun,Nyaruguru,Beans,TS1,0,2.4
+842,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,3.9
+843,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,1.5
+844,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,2.6
+845,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,1.8
+846,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,3.2
+847,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,2.1
+848,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,0.8
+849,Rwanda,Shotgun,Nyaruguru,Beans,TS3,25,1.4
+850,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,2.3
+851,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,1.7
+852,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,3.1
+853,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,3.3
+854,Rwanda,Shotgun,Nyaruguru,Beans,TS1,0,2.3
+855,Rwanda,Shotgun,Nyaruguru,Beans,TS2,1,2.4
+856,Rwanda,Shotgun,Nyaruguru,Beans,TS3,2.5,3.4
+857,Rwanda,Shotgun,Nyaruguru,Beans,TS1,0,2.1
+858,Rwanda,Shotgun,Nyaruguru,Beans,TS4,7,1.1
+859,Rwanda,RCBD,Nyaruguru,Beans,TR1,0,1.44
+860,Rwanda,RCBD,Nyaruguru,Beans,TR2,1,1.82
+861,Rwanda,RCBD,Nyaruguru,Beans,TR3,2,1.46
+862,Rwanda,RCBD,Nyaruguru,Beans,TR4,3,1.61
+863,Rwanda,RCBD,Nyaruguru,Beans,TR5,4.5,1.43
+864,Rwanda,RCBD,Nyaruguru,Beans,TR6,5.5,1.46
+865,Rwanda,RCBD,Nyaruguru,Beans,TR7,7,1.52
+866,Rwanda,RCBD,Nyaruguru,Beans,TR1,0,1.61
+867,Rwanda,RCBD,Nyaruguru,Beans,TR2,1,1.6
+868,Rwanda,RCBD,Nyaruguru,Beans,TR3,2,1.41
+869,Rwanda,RCBD,Nyaruguru,Beans,TR4,3,1.44
+870,Rwanda,RCBD,Nyaruguru,Beans,TR5,4.5,1.63
+871,Rwanda,RCBD,Nyaruguru,Beans,TR6,5.5,1.69
+872,Rwanda,RCBD,Nyaruguru,Beans,TR7,7,2.24
+873,Rwanda,RCBD,Nyaruguru,Beans,TR1,0,0.88
+874,Rwanda,RCBD,Nyaruguru,Beans,TR2,1,1.15
+875,Rwanda,RCBD,Nyaruguru,Beans,TR3,2,1.76
+876,Rwanda,RCBD,Nyaruguru,Beans,TR4,3,1.97
+877,Rwanda,RCBD,Nyaruguru,Beans,TR5,4.5,2.41
+878,Rwanda,RCBD,Nyaruguru,Beans,TR6,5.5,2.25
+879,Rwanda,RCBD,Nyaruguru,Beans,TR7,7,2.16
+880,Rwanda,RCBD,Nyaruguru,Beans,TR1,0,0.95
+881,Rwanda,RCBD,Nyaruguru,Beans,TR2,1,1.25
+882,Rwanda,RCBD,Nyaruguru,Beans,TR3,2,1.56
+883,Rwanda,RCBD,Nyaruguru,Beans,TR4,3,1.42
+884,Rwanda,RCBD,Nyaruguru,Beans,TR5,4.5,1.44
+885,Rwanda,RCBD,Nyaruguru,Beans,TR6,5.5,1.52
+886,Rwanda,RCBD,Nyaruguru,Beans,TR7,7,1.68
+887,Rwanda,RCBD,Nyaruguru,Beans,TR3,2,1.42
+888,Rwanda,RCBD,Nyaruguru,Beans,TR4,3,1.52
+889,Rwanda,RCBD,Nyaruguru,Beans,TR5,4.5,1.6
+890,Rwanda,RCBD,Nyaruguru,Beans,TR6,5.5,1.6
+891,Rwanda,RCBD,Nyaruguru,Beans,TR7,7,2.32
+892,Rwanda,RCBD,Nyaruguru,Beans,TR1,0,2.3
+893,Rwanda,RCBD,Nyaruguru,Beans,TR2,1,2.46
+894,Rwanda,RCBD,Nyaruguru,Beans,TR3,2,2.57
+895,Rwanda,RCBD,Nyaruguru,Beans,TR4,3,2.74
+896,Rwanda,RCBD,Nyaruguru,Beans,TR5,4.5,3.2
+897,Rwanda,RCBD,Nyaruguru,Beans,TR6,5.5,3.51
+898,Rwanda,RCBD,Nyaruguru,Beans,TR7,7,2
+899,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,6.1
+900,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,6.8
+901,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,7.09
+902,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,8.12
+903,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,4.3
+904,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,4.27
+905,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,3.91
+906,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,4.83
+907,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,5.42
+908,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,6.07
+909,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,6.24
+910,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,7.58
+911,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,4.69
+912,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,5.01
+913,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,6.05
+914,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,5.56
+915,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,1.51
+916,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,3.24
+917,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,3.31
+918,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,3.26
+919,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,3.21
+920,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,5.63
+921,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,7.56
+922,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,7.67
+923,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,4.4
+924,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,7.93
+925,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,6.19
+926,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,9.99
+927,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,4.83
+928,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,5.23
+929,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,6.35
+930,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,7.06
+931,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,4.26
+932,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,5.33
+933,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,5.48
+934,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,6.21
+935,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,4.5
+936,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,6.51
+937,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,7.26
+938,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,4.08
+939,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,4.09
+940,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,5.37
+941,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,5.39
+942,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,3.43
+943,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,4.32
+944,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,4.74
+945,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,5.95
+946,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,4.37
+947,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,4.21
+948,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,6.08
+949,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,6.36
+950,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,7.3
+951,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,6.49
+952,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,8.37
+953,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,6.52
+954,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,6.74
+955,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,7.99
+956,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,8.57
+957,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,4.92
+958,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,5.43
+959,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,7.49
+960,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,10.9
+961,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,3.79
+962,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,4.35
+963,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,6.97
+964,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,4.6
+965,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,6.57
+966,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,7.21
+967,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,7.1
+968,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,3.62
+969,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,5.13
+970,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,5
+971,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,2.71
+972,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,4.1
+973,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,3.72
+974,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,4
+975,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,4.6
+976,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,4.36
+977,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,5.88
+978,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,5.13
+979,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,5.31
+980,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,6.58
+981,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,5.76
+982,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,4.34
+983,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,4.8
+984,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,5.3
+985,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,5.42
+986,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,4.24
+987,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,3.98
+988,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,6.6
+989,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,6.39
+990,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,5.03
+991,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,4.68
+992,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,5.82
+993,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,6.72
+994,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,4.81
+995,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,5.29
+996,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,5.74
+997,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,7.36
+998,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,5.52
+999,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,6
+1000,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,8.87
+1001,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,9.78
+1002,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,5.37
+1003,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,6.66
+1004,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,7.13
+1005,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,9.73
+1006,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,3.75
+1007,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,4.66
+1008,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,6.23
+1009,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,6.1
+1010,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,3.9
+1011,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,6.79
+1012,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,8.18
+1013,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,9.46
+1014,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,4.44
+1015,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,5.37
+1016,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,6.44
+1017,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,9.09
+1018,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,6.65
+1019,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,7.66
+1020,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,8.32
+1021,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,6.49
+1022,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,7.81
+1023,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,7.54
+1024,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,10.18
+1025,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,2.52
+1026,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,3.12
+1027,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,4.15
+1028,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,4.92
+1029,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,3.69
+1030,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,3.93
+1031,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,5.12
+1032,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,5.63
+1033,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,3.54
+1034,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,4.26
+1035,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,5.53
+1036,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,6.55
+1037,Rwanda,Shotgun,Nyaruguru,Maize ,TS1,0,3
+1038,Rwanda,Shotgun,Nyaruguru,Maize ,TS2,1,4.48
+1039,Rwanda,Shotgun,Nyaruguru,Maize ,TS3,2.5,5.54
+1040,Rwanda,Shotgun,Nyaruguru,Maize ,TS4,7,6.51
+1041,Rwanda,RCBD,Nyaruguru,Maize ,TR1,0,5.1
+1042,Rwanda,RCBD,Nyaruguru,Maize ,TR2,1,6.7
+1043,Rwanda,RCBD,Nyaruguru,Maize ,TR3,2,6.7
+1044,Rwanda,RCBD,Nyaruguru,Maize ,TR4,3,4.7
+1045,Rwanda,RCBD,Nyaruguru,Maize ,TR5,4.5,7.6
+1046,Rwanda,RCBD,Nyaruguru,Maize ,TR6,5.5,7.6
+1047,Rwanda,RCBD,Nyaruguru,Maize ,TR7,7,7.5
+1048,Rwanda,RCBD,Nyaruguru,Maize ,TR1,0,6.8
+1049,Rwanda,RCBD,Nyaruguru,Maize ,TR2,1,7.6
+1050,Rwanda,RCBD,Nyaruguru,Maize ,TR3,2,7.9
+1051,Rwanda,RCBD,Nyaruguru,Maize ,TR4,3,8
+1052,Rwanda,RCBD,Nyaruguru,Maize ,TR5,4.5,7.4
+1053,Rwanda,RCBD,Nyaruguru,Maize ,TR1,0,6.9
+1054,Rwanda,RCBD,Nyaruguru,Maize ,TR2,1,7.8
+1055,Rwanda,RCBD,Nyaruguru,Maize ,TR3,2,8
+1056,Rwanda,RCBD,Nyaruguru,Maize ,TR4,3,7.8
+1057,Rwanda,RCBD,Nyaruguru,Maize ,TR5,4.5,7.9
+1058,Rwanda,RCBD,Nyaruguru,Maize ,TR6,5.5,7.7
+1059,Rwanda,RCBD,Nyaruguru,Maize ,TR7,7,7.6
+1060,Rwanda,RCBD,Nyaruguru,Maize ,TR1,0,4.7
+1061,Rwanda,RCBD,Nyaruguru,Maize ,TR2,1,5.1
+1062,Rwanda,RCBD,Nyaruguru,Maize ,TR3,2,5.1
+1063,Rwanda,RCBD,Nyaruguru,Maize ,TR4,3,6.5
+1064,Rwanda,RCBD,Nyaruguru,Maize ,TR5,4.5,6.8
+1065,Rwanda,RCBD,Nyaruguru,Maize ,TR6,5.5,6.4
+1066,Rwanda,RCBD,Nyaruguru,Maize ,TR7,7,7.2
+1067,Rwanda,RCBD,Nyaruguru,Maize ,TR1,0,4.1
+1068,Rwanda,RCBD,Nyaruguru,Maize ,TR2,1,4.3
+1069,Rwanda,RCBD,Nyaruguru,Maize ,TR3,2,4.5
+1070,Rwanda,RCBD,Nyaruguru,Maize ,TR4,3,6.3
+1071,Rwanda,RCBD,Nyaruguru,Maize ,TR6,5.5,7.5
+1072,Rwanda,RCBD,Nyaruguru,Maize ,TR1,0,4.4
+1073,Rwanda,RCBD,Nyaruguru,Maize ,TR2,1,4.7
+1074,Rwanda,RCBD,Nyaruguru,Maize ,TR3,2,6.6
+1075,Rwanda,RCBD,Nyaruguru,Maize ,TR4,3,6.8
+1076,Rwanda,RCBD,Nyaruguru,Maize ,TR5,4.5,7.2
+1077,Rwanda,RCBD,Nyaruguru,Maize ,TR6,5.5,7.8
+1078,Rwanda,RCBD,Nyaruguru,Maize ,TR7,7,7.9
+1079,Rwanda,RCBD,Ngororero,Beans,TR1,0,2
+1080,Rwanda,RCBD,Ngororero,Beans,TR2,1,2.1
+1081,Rwanda,RCBD,Ngororero,Beans,TR3,2,1.9
+1082,Rwanda,RCBD,Ngororero,Beans,TR4,3,2.1
+1083,Rwanda,RCBD,Ngororero,Beans,TR5,4.5,2.5
+1084,Rwanda,RCBD,Ngororero,Beans,TR6,5.5,2.5
+1085,Rwanda,RCBD,Ngororero,Beans,TR7,7,2.4
+1086,Rwanda,RCBD,Ngororero,Beans,TR2,1,2
+1087,Rwanda,RCBD,Ngororero,Beans,TR3,2,2.9
+1088,Rwanda,RCBD,Ngororero,Beans,TR4,3,2.2
+1089,Rwanda,RCBD,Ngororero,Beans,TR6,5.5,2.4
+1090,Rwanda,RCBD,Ngororero,Beans,TR3,2,1.6
+1091,Rwanda,RCBD,Ngororero,Beans,TR5,4.5,1.9
+1092,Rwanda,RCBD,Ngororero,Beans,TR7,7,2.9
+1093,Rwanda,RCBD,Ngororero,Beans,TR1,0,1.9
+1094,Rwanda,RCBD,Ngororero,Beans,TR5,4.5,1.7
+1095,Rwanda,RCBD,Ngororero,Beans,TR7,7,2
+1096,Rwanda,RCBD,Ngororero,Beans,TR3,2,2.2
+1097,Rwanda,RCBD,Ngororero,Beans,TR4,3,2.5
+1098,Rwanda,RCBD,Ngororero,Beans,TR5,4.5,3.2
+1099,Rwanda,RCBD,Ngororero,Beans,TR6,5.5,2.3
+1100,Rwanda,RCBD,Ngororero,Beans,TR3,2,2.6
+1101,Rwanda,RCBD,Ngororero,Beans,TR5,4.5,3
+1102,Rwanda,RCBD,Ngororero,Beans,TR6,5.5,2.9
+1103,Rwanda,Shotgun,Ngororero,Beans,TS1,0,0.42
+1104,Rwanda,Shotgun,Ngororero,Beans,TS2,1,0.39
+1105,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,0.44
+1106,Rwanda,Shotgun,Ngororero,Beans,TS4,7,0.42
+1107,Rwanda,Shotgun,Ngororero,Beans,TS1,0,0.84
+1108,Rwanda,Shotgun,Ngororero,Beans,TS2,1,1.02
+1109,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,1.15
+1110,Rwanda,Shotgun,Ngororero,Beans,TS4,7,1.2
+1111,Rwanda,Shotgun,Ngororero,Beans,TS1,0,0.2
+1112,Rwanda,Shotgun,Ngororero,Beans,TS2,1,0.66
+1113,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,1.41
+1114,Rwanda,Shotgun,Ngororero,Beans,TS4,7,1.97
+1115,Rwanda,Shotgun,Ngororero,Beans,TS1,0,1.08
+1116,Rwanda,Shotgun,Ngororero,Beans,TS2,1,0.97
+1117,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,1.51
+1118,Rwanda,Shotgun,Ngororero,Beans,TS4,7,0.83
+1119,Rwanda,Shotgun,Ngororero,Beans,TS1,0,0.6
+1120,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,1.59
+1121,Rwanda,Shotgun,Ngororero,Beans,TS4,7,1.03
+1122,Rwanda,Shotgun,Ngororero,Beans,TS1,0,0.44
+1123,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,0.4
+1124,Rwanda,Shotgun,Ngororero,Beans,TS4,7,0.61
+1125,Rwanda,Shotgun,Ngororero,Beans,TS1,0,0.47
+1126,Rwanda,Shotgun,Ngororero,Beans,TS2,1,0.42
+1127,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,0.52
+1128,Rwanda,Shotgun,Ngororero,Beans,TS4,7,0.4
+1129,Rwanda,Shotgun,Ngororero,Beans,TS1,0,0.74
+1130,Rwanda,Shotgun,Ngororero,Beans,TS2,1,0.4
+1131,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,1.1
+1132,Rwanda,Shotgun,Ngororero,Beans,TS4,7,1.08
+1133,Rwanda,Shotgun,Ngororero,Beans,TS2,1,0.27
+1134,Rwanda,Shotgun,Ngororero,Beans,TS4,7,0.52
+1135,Rwanda,Shotgun,Ngororero,Beans,TS1,0,1
+1136,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,0.94
+1137,Rwanda,Shotgun,Ngororero,Beans,TS4,7,1.17
+1138,Rwanda,Shotgun,Ngororero,Beans,TS1,0,0.45
+1139,Rwanda,Shotgun,Ngororero,Beans,TS2,1,0.48
+1140,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,0.59
+1141,Rwanda,Shotgun,Ngororero,Beans,TS4,7,0.35
+1142,Rwanda,Shotgun,Ngororero,Beans,TS1,0,0.7
+1143,Rwanda,Shotgun,Ngororero,Beans,TS2,1,0.73
+1144,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,0.54
+1145,Rwanda,Shotgun,Ngororero,Beans,TS4,7,0.73
+1146,Rwanda,Shotgun,Ngororero,Beans,TS1,0,0.36
+1147,Rwanda,Shotgun,Ngororero,Beans,TS2,1,0.81
+1148,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,1.49
+1149,Rwanda,Shotgun,Ngororero,Beans,TS4,7,1.1
+1150,Rwanda,Shotgun,Ngororero,Beans,TS1,0,1.1
+1151,Rwanda,Shotgun,Ngororero,Beans,TS2,1,1.48
+1152,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,2.62
+1153,Rwanda,Shotgun,Ngororero,Beans,TS4,7,1.73
+1154,Rwanda,Shotgun,Ngororero,Beans,TS2,1,0.67
+1155,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,0.73
+1156,Rwanda,Shotgun,Ngororero,Beans,TS4,7,1.72
+1157,Rwanda,Shotgun,Ngororero,Beans,TS1,0,1.23
+1158,Rwanda,Shotgun,Ngororero,Beans,TS2,1,2.29
+1159,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,0.57
+1160,Rwanda,Shotgun,Ngororero,Beans,TS4,7,1.77
+1161,Rwanda,Shotgun,Ngororero,Beans,TS1,0,1.33
+1162,Rwanda,Shotgun,Ngororero,Beans,TS2,1,1.7
+1163,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,2.06
+1164,Rwanda,Shotgun,Ngororero,Beans,TS4,7,1.92
+1165,Rwanda,Shotgun,Ngororero,Beans,TS1,0,0.68
+1166,Rwanda,Shotgun,Ngororero,Beans,TS2,1,0.65
+1167,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,0.49
+1168,Rwanda,Shotgun,Ngororero,Beans,TS1,0,1.35
+1169,Rwanda,Shotgun,Ngororero,Beans,TS2,1,1.6
+1170,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,2.02
+1171,Rwanda,Shotgun,Ngororero,Beans,TS4,7,2.01
+1172,Rwanda,Shotgun,Ngororero,Beans,TS1,0,1.99
+1173,Rwanda,Shotgun,Ngororero,Beans,TS2,1,1.89
+1174,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,2.64
+1175,Rwanda,Shotgun,Ngororero,Beans,TS4,7,2.98
+1176,Rwanda,Shotgun,Ngororero,Beans,TS1,0,0.05
+1177,Rwanda,Shotgun,Ngororero,Beans,TS2,1,0.46
+1178,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,1.03
+1179,Rwanda,Shotgun,Ngororero,Beans,TS4,7,0.26
+1180,Rwanda,Shotgun,Ngororero,Beans,TS1,0,0.76
+1181,Rwanda,Shotgun,Ngororero,Beans,TS2,1,1.76
+1182,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,0.5
+1183,Rwanda,Shotgun,Ngororero,Beans,TS4,7,1
+1184,Rwanda,Shotgun,Ngororero,Beans,TS1,0,1.32
+1185,Rwanda,Shotgun,Ngororero,Beans,TS2,1,1.47
+1186,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,0.65
+1187,Rwanda,Shotgun,Ngororero,Beans,TS4,7,0.64
+1188,Rwanda,Shotgun,Ngororero,Beans,TS1,0,1.48
+1189,Rwanda,Shotgun,Ngororero,Beans,TS2,1,1.88
+1190,Rwanda,Shotgun,Ngororero,Beans,TS3,2.5,1.18
+1191,Rwanda,Shotgun,Ngororero,Beans,TS4,7,2.34
+1192,Rwanda,Shotgun,Ngororero,Beans,TS1,0,0.81
+1193,Rwanda,Shotgun,Ngororero,Beans,TS2,1,1.23
+1194,Rwanda,Shotgun,Ngororero,Beans,TS4,7,1.76
+1195,Rwanda,RCBD,Ngororero,Maize ,TR1,0,4.74
+1196,Rwanda,RCBD,Ngororero,Maize ,TR2,1,4.51
+1197,Rwanda,RCBD,Ngororero,Maize ,TR3,2,4.36
+1198,Rwanda,RCBD,Ngororero,Maize ,TR4,3,3.45
+1199,Rwanda,RCBD,Ngororero,Maize ,TR5,4.5,5.88
+1200,Rwanda,RCBD,Ngororero,Maize ,TR6,5.5,4.01
+1201,Rwanda,RCBD,Ngororero,Maize ,TR7,7,5.9
+1202,Rwanda,RCBD,Ngororero,Maize ,TR1,0,2.39
+1203,Rwanda,RCBD,Ngororero,Maize ,TR2,1,3.57
+1204,Rwanda,RCBD,Ngororero,Maize ,TR3,2,5
+1205,Rwanda,RCBD,Ngororero,Maize ,TR4,3,5.76
+1206,Rwanda,RCBD,Ngororero,Maize ,TR5,4.5,5.97
+1207,Rwanda,RCBD,Ngororero,Maize ,TR6,5.5,6.42
+1208,Rwanda,RCBD,Ngororero,Maize ,TR7,7,5.37
+1209,Rwanda,RCBD,Ngororero,Maize ,TR1,0,4.46
+1210,Rwanda,RCBD,Ngororero,Maize ,TR2,1,5.11
+1211,Rwanda,RCBD,Ngororero,Maize ,TR3,2,4.58
+1212,Rwanda,RCBD,Ngororero,Maize ,TR4,3,6.43
+1213,Rwanda,RCBD,Ngororero,Maize ,TR5,4.5,7.28
+1214,Rwanda,RCBD,Ngororero,Maize ,TR6,5.5,7.96
+1215,Rwanda,RCBD,Ngororero,Maize ,TR7,7,6.76
+1216,Rwanda,RCBD,Ngororero,Maize ,TR1,0,2.35
+1217,Rwanda,RCBD,Ngororero,Maize ,TR2,1,2.66
+1218,Rwanda,RCBD,Ngororero,Maize ,TR3,2,3.78
+1219,Rwanda,RCBD,Ngororero,Maize ,TR4,3,5.83
+1220,Rwanda,RCBD,Ngororero,Maize ,TR5,4.5,6.94
+1221,Rwanda,RCBD,Ngororero,Maize ,TR6,5.5,7.81
+1222,Rwanda,RCBD,Ngororero,Maize ,TR7,7,6.48
+1223,Rwanda,RCBD,Ngororero,Maize ,TR1,0,3.52
+1224,Rwanda,RCBD,Ngororero,Maize ,TR2,1,4.19
+1225,Rwanda,RCBD,Ngororero,Maize ,TR3,2,5.17
+1226,Rwanda,RCBD,Ngororero,Maize ,TR4,3,4.26
+1227,Rwanda,RCBD,Ngororero,Maize ,TR5,4.5,3.46
+1228,Rwanda,RCBD,Ngororero,Maize ,TR6,5.5,6.29
+1229,Rwanda,RCBD,Ngororero,Maize ,TR7,7,5.46
+1230,Rwanda,RCBD,Ngororero,Maize ,TR1,0,4.26
+1231,Rwanda,RCBD,Ngororero,Maize ,TR2,1,5.44
+1232,Rwanda,RCBD,Ngororero,Maize ,TR4,3,5.15
+1233,Rwanda,RCBD,Ngororero,Maize ,TR5,4.5,6.29
+1234,Rwanda,RCBD,Ngororero,Maize ,TR6,5.5,4.15
+1235,Rwanda,RCBD,Ngororero,Maize ,TR7,7,5.41
+1236,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,2.2
+1237,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,2.83
+1238,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,2.67
+1239,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,1.96
+1240,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,1.99
+1241,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,3.22
+1242,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,2.77
+1243,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,3.12
+1244,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,1.8
+1245,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,2.51
+1246,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,2.78
+1247,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,2.69
+1248,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,2.81
+1249,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,3
+1250,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,3.97
+1251,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,3.89
+1252,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,2.42
+1253,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,2.88
+1254,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,4.36
+1255,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,3.54
+1256,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,2.95
+1257,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,4.22
+1258,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,4.75
+1259,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,3.94
+1260,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,2.11
+1261,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,3.62
+1262,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,3.51
+1263,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,3.57
+1264,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,2.05
+1265,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,2.95
+1266,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,3.19
+1267,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,1.68
+1268,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,2.15
+1269,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,2.9
+1270,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,3.5
+1271,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,2.05
+1272,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,2.97
+1273,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,2.93
+1274,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,3.32
+1275,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,4.99
+1276,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,5.41
+1277,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,5.43
+1278,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,2.82
+1279,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,3.86
+1280,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,4.08
+1281,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,3.51
+1282,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,1.4
+1283,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,2
+1284,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,3.27
+1285,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,3.71
+1286,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,2.97
+1287,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,4.36
+1288,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,4.37
+1289,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,4.78
+1290,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,3.8
+1291,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,4.15
+1292,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,4.74
+1293,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,4.7
+1294,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,2.71
+1295,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,6.17
+1296,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,3.99
+1297,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,7.94
+1298,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,3.82
+1299,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,4.7
+1300,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,5.71
+1301,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,6.18
+1302,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,2.89
+1303,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,3.18
+1304,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,4.13
+1305,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,4.17
+1306,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,3.05
+1307,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,3.59
+1308,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,3.82
+1309,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,5.46
+1310,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,2.63
+1311,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,2.64
+1312,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,4
+1313,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,3.77
+1314,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,5.64
+1315,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,6.63
+1316,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,6.86
+1317,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,6.58
+1318,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,3.7
+1319,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,4.55
+1320,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,5.67
+1321,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,5.78
+1322,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,3.87
+1323,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,5.48
+1324,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,5.81
+1325,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,1.17
+1326,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,1.31
+1327,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,1.43
+1328,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,1.49
+1329,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,3.13
+1330,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,4.01
+1331,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,4.43
+1332,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,6.69
+1333,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,2.06
+1334,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,2.89
+1335,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,4.72
+1336,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,2.5
+1337,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,3.01
+1338,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,3.09
+1339,Rwanda,Shotgun,Ngororero,Maize ,TS1,0,3.45
+1340,Rwanda,Shotgun,Ngororero,Maize ,TS2,1,4.63
+1341,Rwanda,Shotgun,Ngororero,Maize ,TS3,2.5,4.3
+1342,Rwanda,Shotgun,Ngororero,Maize ,TS4,7,5.57
+1343,Tanzania,RCBD,Mbozi,Beans,TR1,0,0.4
+1344,Tanzania,RCBD,Mbozi,Beans,TR2,1,0.5
+1345,Tanzania,RCBD,Mbozi,Beans,TR3,2,0.53
+1346,Tanzania,RCBD,Mbozi,Beans,TR4,3,0.57
+1347,Tanzania,RCBD,Mbozi,Beans,TR5,4.5,0.67
+1348,Tanzania,RCBD,Mbozi,Beans,TR6,5.5,0.7
+1349,Tanzania,RCBD,Mbozi,Beans,TR7,7,0.83
+1350,Tanzania,RCBD,Mbozi,Beans,TR1,0,0.47
+1351,Tanzania,RCBD,Mbozi,Beans,TR2,1,0.67
+1352,Tanzania,RCBD,Mbozi,Beans,TR3,2,0.67
+1353,Tanzania,RCBD,Mbozi,Beans,TR4,3,0.77
+1354,Tanzania,RCBD,Mbozi,Beans,TR5,4.5,0.77
+1355,Tanzania,RCBD,Mbozi,Beans,TR6,5.5,1
+1356,Tanzania,RCBD,Mbozi,Beans,TR7,7,1.13
+1357,Tanzania,RCBD,Mbozi,Beans,TR1,0,0.37
+1358,Tanzania,RCBD,Mbozi,Beans,TR3,2,0.77
+1359,Tanzania,RCBD,Mbozi,Beans,TR7,7,1
+1360,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.5
+1361,Tanzania,Shotgun,Mbozi,Beans,TS2,2.5,0.67
+1362,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.77
+1363,Tanzania,Shotgun,Mbozi,Beans,TS4,7,1
+1364,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.43
+1365,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.5
+1366,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.67
+1367,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.83
+1368,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.5
+1369,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.67
+1370,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.83
+1371,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.83
+1372,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.67
+1373,Tanzania,Shotgun,Mbozi,Beans,TS2,1,1.17
+1374,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,1.23
+1375,Tanzania,Shotgun,Mbozi,Beans,TS4,7,1.53
+1376,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.5
+1377,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.6
+1378,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.67
+1379,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.83
+1380,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.33
+1381,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.67
+1382,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.8
+1383,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.83
+1384,Tanzania,Shotgun,Mbozi,Beans,TS1,0,1.33
+1385,Tanzania,Shotgun,Mbozi,Beans,TS2,1,2
+1386,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,2.5
+1387,Tanzania,Shotgun,Mbozi,Beans,TS4,7,2.83
+1388,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.23
+1389,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.37
+1390,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.5
+1391,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.67
+1392,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.43
+1393,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.5
+1394,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.6
+1395,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.67
+1396,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.33
+1397,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.33
+1398,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.5
+1399,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.6
+1400,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.5
+1401,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.67
+1402,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.73
+1403,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.83
+1404,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.27
+1405,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.33
+1406,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.43
+1407,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.5
+1408,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.33
+1409,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.67
+1410,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.73
+1411,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.83
+1412,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.5
+1413,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.6
+1414,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.67
+1415,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.67
+1416,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.5
+1417,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.5
+1418,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.6
+1419,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.63
+1420,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.5
+1421,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.5
+1422,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.67
+1423,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.73
+1424,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.17
+1425,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.33
+1426,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.5
+1427,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.6
+1428,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.17
+1429,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.33
+1430,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.43
+1431,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.67
+1432,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.67
+1433,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.83
+1434,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.93
+1435,Tanzania,Shotgun,Mbozi,Beans,TS4,7,1.03
+1436,Tanzania,RCBD,Mbozi,Beans,TR1,0,0.37
+1437,Tanzania,RCBD,Mbozi,Beans,TR2,1,0.43
+1438,Tanzania,RCBD,Mbozi,Beans,TR3,2,0.43
+1439,Tanzania,RCBD,Mbozi,Beans,TR4,3,0.5
+1440,Tanzania,RCBD,Mbozi,Beans,TR5,4.5,0.53
+1441,Tanzania,RCBD,Mbozi,Beans,TR6,5.5,0.7
+1442,Tanzania,RCBD,Mbozi,Beans,TR7,7,0.67
+1443,Tanzania,RCBD,Mbozi,Beans,TR1,0,0.33
+1444,Tanzania,RCBD,Mbozi,Beans,TR3,2,0.5
+1445,Tanzania,RCBD,Mbozi,Beans,TR4,3,0.57
+1446,Tanzania,RCBD,Mbozi,Beans,TR5,4.5,0.57
+1447,Tanzania,RCBD,Mbozi,Beans,TR6,5.5,0.63
+1448,Tanzania,RCBD,Mbozi,Beans,TR2,1,0.47
+1449,Tanzania,RCBD,Mbozi,Beans,TR6,5.5,0.57
+1450,Tanzania,Shotgun,Geita,Beans,TS1,0,0.5
+1451,Tanzania,Shotgun,Geita,Beans,TS2,1,0.67
+1452,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.83
+1453,Tanzania,Shotgun,Geita,Beans,TS4,7,1
+1454,Tanzania,Shotgun,Geita,Beans,TS1,0,0.25
+1455,Tanzania,Shotgun,Geita,Beans,TS2,1,0.28
+1456,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.47
+1457,Tanzania,Shotgun,Geita,Beans,TS4,7,0.67
+1458,Tanzania,Shotgun,Geita,Beans,TS1,0,0.33
+1459,Tanzania,Shotgun,Geita,Beans,TS2,1,0.43
+1460,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.73
+1461,Tanzania,Shotgun,Geita,Beans,TS4,7,0.83
+1462,Tanzania,Shotgun,Geita,Beans,TS1,0,0.43
+1463,Tanzania,Shotgun,Geita,Beans,TS2,1,0.67
+1464,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.87
+1465,Tanzania,Shotgun,Geita,Beans,TS4,7,1.03
+1466,Tanzania,Shotgun,Geita,Beans,TS1,0,0.67
+1467,Tanzania,Shotgun,Geita,Beans,TS2,1,1.17
+1468,Tanzania,Shotgun,Geita,Beans,TS3,2.5,1.9
+1469,Tanzania,Shotgun,Geita,Beans,TS4,7,2.27
+1470,Tanzania,Shotgun,Geita,Beans,TS2,1,0.7
+1471,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.8
+1472,Tanzania,Shotgun,Geita,Beans,TS4,7,1.03
+1473,Tanzania,Shotgun,Geita,Beans,TS1,0,0.4
+1474,Tanzania,Shotgun,Geita,Beans,TS2,1,0.67
+1475,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.73
+1476,Tanzania,Shotgun,Geita,Beans,TS4,7,0.87
+1477,Tanzania,Shotgun,Geita,Beans,TS1,0,0.5
+1478,Tanzania,Shotgun,Geita,Beans,TS2,1,0.7
+1479,Tanzania,Shotgun,Geita,Beans,TS3,2.5,1
+1480,Tanzania,Shotgun,Geita,Beans,TS4,7,1.13
+1481,Tanzania,Shotgun,Geita,Beans,TS1,0,0.47
+1482,Tanzania,Shotgun,Geita,Beans,TS2,1,0.7
+1483,Tanzania,Shotgun,Geita,Beans,TS3,2.5,1.03
+1484,Tanzania,Shotgun,Geita,Beans,TS4,7,1.13
+1485,Tanzania,Shotgun,Geita,Beans,TS1,0,0.47
+1486,Tanzania,Shotgun,Geita,Beans,TS2,1,0.5
+1487,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.83
+1488,Tanzania,Shotgun,Geita,Beans,TS4,7,0.87
+1489,Tanzania,Shotgun,Geita,Beans,TS1,0,0.5
+1490,Tanzania,Shotgun,Geita,Beans,TS2,1,0.67
+1491,Tanzania,Shotgun,Geita,Beans,TS3,2.5,1
+1492,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.67
+1493,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.73
+1494,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.73
+1495,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.83
+1496,Tanzania,RCBD,Mbozi,Beans,TR1,0,0.63
+1497,Tanzania,RCBD,Mbozi,Beans,TR2,1,0.73
+1498,Tanzania,RCBD,Mbozi,Beans,TR3,2,0.83
+1499,Tanzania,RCBD,Mbozi,Beans,TR4,3,0.87
+1500,Tanzania,RCBD,Mbozi,Beans,TR5,4.5,0.97
+1501,Tanzania,RCBD,Mbozi,Beans,TR6,5.5,1.13
+1502,Tanzania,RCBD,Mbozi,Beans,TR7,7,1.17
+1503,Tanzania,RCBD,Mbozi,Beans,TR1,0,0.7
+1504,Tanzania,RCBD,Mbozi,Beans,TR2,1,0.8
+1505,Tanzania,RCBD,Mbozi,Beans,TR3,2,0.9
+1506,Tanzania,RCBD,Mbozi,Beans,TR5,4.5,1.07
+1507,Tanzania,RCBD,Mbozi,Beans,TR6,5.5,1.3
+1508,Tanzania,RCBD,Mbozi,Beans,TR7,7,1.3
+1509,Tanzania,RCBD,Mbozi,Beans,TR1,0,0.67
+1510,Tanzania,RCBD,Mbozi,Beans,TR3,2,0.8
+1511,Tanzania,RCBD,Mbozi,Beans,TR4,3,0.8
+1512,Tanzania,RCBD,Mbozi,Beans,TR5,4.5,0.77
+1513,Tanzania,RCBD,Mbozi,Beans,TR6,5.5,0.8
+1514,Tanzania,RCBD,Mbozi,Beans,TR7,7,0.9
+1515,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.5
+1516,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.53
+1517,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.53
+1518,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.6
+1519,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.67
+1520,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.83
+1521,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.83
+1522,Tanzania,Shotgun,Mbozi,Beans,TS4,7,1
+1523,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.33
+1524,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.5
+1525,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.5
+1526,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.67
+1527,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.67
+1528,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.83
+1529,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.93
+1530,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.97
+1531,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.17
+1532,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.33
+1533,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.43
+1534,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.5
+1535,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.17
+1536,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.17
+1537,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.63
+1538,Tanzania,Shotgun,Mbozi,Beans,TS4,7,0.67
+1539,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.17
+1540,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.67
+1541,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.73
+1542,Tanzania,Shotgun,Mbozi,Beans,TS4,7,1
+1543,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.83
+1544,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.93
+1545,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,1.33
+1546,Tanzania,Shotgun,Mbozi,Beans,TS4,7,1.83
+1547,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.8
+1548,Tanzania,Shotgun,Mbozi,Beans,TS2,1,1.07
+1549,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,1.17
+1550,Tanzania,Shotgun,Mbozi,Beans,TS4,7,1.43
+1551,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.7
+1552,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.73
+1553,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.83
+1554,Tanzania,Shotgun,Mbozi,Beans,TS4,7,1
+1555,Tanzania,Shotgun,Mbozi,Beans,TS1,0,1
+1556,Tanzania,Shotgun,Mbozi,Beans,TS2,1,1
+1557,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,1.13
+1558,Tanzania,Shotgun,Mbozi,Beans,TS4,7,1.17
+1559,Tanzania,Shotgun,Mbozi,Beans,TS1,0,0.43
+1560,Tanzania,Shotgun,Mbozi,Beans,TS2,1,0.6
+1561,Tanzania,Shotgun,Mbozi,Beans,TS3,2.5,0.77
+1562,Tanzania,Shotgun,Mbozi,Beans,TS4,7,1.07
+1563,Tanzania,Shotgun,Geita,Beans,TS4,7,1.17
+1564,Tanzania,Shotgun,Geita,Beans,TS1,0,0.5
+1565,Tanzania,Shotgun,Geita,Beans,TS2,1,0.67
+1566,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.8
+1567,Tanzania,Shotgun,Geita,Beans,TS4,7,1.03
+1568,Tanzania,Shotgun,Geita,Beans,TS1,0,0.5
+1569,Tanzania,Shotgun,Geita,Beans,TS2,1,0.67
+1570,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.83
+1571,Tanzania,Shotgun,Geita,Beans,TS4,7,1
+1572,Tanzania,Shotgun,Geita,Beans,TS1,0,0.5
+1573,Tanzania,Shotgun,Geita,Beans,TS2,1,0.67
+1574,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.8
+1575,Tanzania,Shotgun,Geita,Beans,TS4,7,1.03
+1576,Tanzania,Shotgun,Geita,Beans,TS1,0,0.5
+1577,Tanzania,Shotgun,Geita,Beans,TS2,1,0.53
+1578,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.77
+1579,Tanzania,Shotgun,Geita,Beans,TS4,7,0.87
+1580,Tanzania,Shotgun,Geita,Beans,TS1,0,0.17
+1581,Tanzania,Shotgun,Geita,Beans,TS2,1,0.2
+1582,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.4
+1583,Tanzania,Shotgun,Geita,Beans,TS4,7,0.57
+1584,Tanzania,Shotgun,Geita,Beans,TS1,0,0.47
+1585,Tanzania,Shotgun,Geita,Beans,TS2,1,0.53
+1586,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.8
+1587,Tanzania,Shotgun,Geita,Beans,TS4,7,0.87
+1588,Tanzania,Shotgun,Geita,Beans,TS1,0,0.43
+1589,Tanzania,Shotgun,Geita,Beans,TS2,1,0.67
+1590,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.9
+1591,Tanzania,Shotgun,Geita,Beans,TS4,7,1
+1592,Tanzania,Shotgun,Geita,Beans,TS1,0,0.67
+1593,Tanzania,Shotgun,Geita,Beans,TS2,1,1.17
+1594,Tanzania,Shotgun,Geita,Beans,TS3,2.5,1.5
+1595,Tanzania,Shotgun,Geita,Beans,TS4,7,2
+1596,Tanzania,Shotgun,Geita,Beans,TS1,0,0.18
+1597,Tanzania,Shotgun,Geita,Beans,TS2,1,0.22
+1598,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.43
+1599,Tanzania,Shotgun,Geita,Beans,TS4,7,0.67
+1600,Tanzania,Shotgun,Geita,Beans,TS1,0,0.33
+1601,Tanzania,Shotgun,Geita,Beans,TS2,1,0.4
+1602,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.57
+1603,Tanzania,Shotgun,Geita,Beans,TS4,7,0.7
+1604,Tanzania,Shotgun,Geita,Beans,TS1,0,0.17
+1605,Tanzania,Shotgun,Geita,Beans,TS2,1,0.2
+1606,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.47
+1607,Tanzania,Shotgun,Geita,Beans,TS4,7,0.67
+1608,Tanzania,Shotgun,Geita,Beans,TS1,0,0.47
+1609,Tanzania,Shotgun,Geita,Beans,TS2,1,0.67
+1610,Tanzania,Shotgun,Geita,Beans,TS3,2.5,1.03
+1611,Tanzania,Shotgun,Geita,Beans,TS4,7,1.17
+1612,Tanzania,Shotgun,Geita,Beans,TS1,0,0.47
+1613,Tanzania,Shotgun,Geita,Beans,TS1,0,0.47
+1614,Tanzania,Shotgun,Geita,Beans,TS2,1,0.53
+1615,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.77
+1616,Tanzania,Shotgun,Geita,Beans,TS4,7,0.9
+1617,Tanzania,Shotgun,Geita,Beans,TS1,0,0.33
+1618,Tanzania,Shotgun,Geita,Beans,TS2,1,0.43
+1619,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.77
+1620,Tanzania,Shotgun,Geita,Beans,TS4,7,0.8
+1621,Tanzania,Shotgun,Geita,Beans,TS1,0,0.43
+1622,Tanzania,Shotgun,Geita,Beans,TS2,1,0.7
+1623,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.83
+1624,Tanzania,Shotgun,Geita,Beans,TS4,7,1.03
+1625,Tanzania,Shotgun,Geita,Beans,TS1,0,0.47
+1626,Tanzania,Shotgun,Geita,Beans,TS2,1,0.67
+1627,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.87
+1628,Tanzania,Shotgun,Geita,Beans,TS4,7,1
+1629,Tanzania,Shotgun,Geita,Beans,TS1,0,0.33
+1630,Tanzania,Shotgun,Geita,Beans,TS2,1,0.4
+1631,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.6
+1632,Tanzania,Shotgun,Geita,Beans,TS4,7,0.67
+1633,Tanzania,Shotgun,Geita,Beans,TS1,0,0.25
+1634,Tanzania,Shotgun,Geita,Beans,TS2,1,0.28
+1635,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.47
+1636,Tanzania,Shotgun,Geita,Beans,TS4,7,0.67
+1637,Tanzania,Shotgun,Geita,Beans,TS1,0,0.47
+1638,Tanzania,Shotgun,Geita,Beans,TS2,1,0.67
+1639,Tanzania,Shotgun,Geita,Beans,TS3,2.5,0.87
+1640,Tanzania,Shotgun,Geita,Beans,TS4,7,1
+1641,Tanzania,RCBD,Mbozi,Maize,TR1,0,1.97
+1642,Tanzania,RCBD,Mbozi,Maize,TR2,1,3.76
+1643,Tanzania,RCBD,Mbozi,Maize,TR3,2,5.13
+1644,Tanzania,RCBD,Mbozi,Maize,TR4,3,5.61
+1645,Tanzania,RCBD,Mbozi,Maize,TR5,4.5,0.75
+1646,Tanzania,RCBD,Mbozi,Maize,TR6,5.5,9.13
+1647,Tanzania,RCBD,Mbozi,Maize,TR7,7,10.8
+1648,Tanzania,RCBD,Mbozi,Maize,TR1,0,2.67
+1649,Tanzania,RCBD,Mbozi,Maize,TR2,1,3.83
+1650,Tanzania,RCBD,Mbozi,Maize,TR3,2,4.69
+1651,Tanzania,RCBD,Mbozi,Maize,TR4,3,4.63
+1652,Tanzania,RCBD,Mbozi,Maize,TR5,4.5,6.63
+1653,Tanzania,RCBD,Mbozi,Maize,TR6,5.5,6.97
+1654,Tanzania,RCBD,Mbozi,Maize,TR7,7,8.34
+1655,Tanzania,RCBD,Mbozi,Maize,TR1,0,1.45
+1656,Tanzania,RCBD,Mbozi,Maize,TR2,1,2.05
+1657,Tanzania,RCBD,Mbozi,Maize,TR3,2,2.97
+1658,Tanzania,RCBD,Mbozi,Maize,TR4,3,4.94
+1659,Tanzania,RCBD,Mbozi,Maize,TR5,4.5,5.06
+1660,Tanzania,RCBD,Mbozi,Maize,TR6,5.5,7.33
+1661,Tanzania,RCBD,Mbozi,Maize,TR7,7,7.72
+1662,Tanzania,RCBD,Mbozi,Maize,TR1,0,1.06
+1663,Tanzania,RCBD,Mbozi,Maize,TR2,1,1.78
+1664,Tanzania,RCBD,Mbozi,Maize,TR3,2,1.88
+1665,Tanzania,RCBD,Mbozi,Maize,TR4,3,1.61
+1666,Tanzania,RCBD,Mbozi,Maize,TR5,4.5,2.5
+1667,Tanzania,RCBD,Mbozi,Maize,TR6,5.5,2
+1668,Tanzania,RCBD,Mbozi,Maize,TR7,7,2.73
+1669,Tanzania,RCBD,Mbozi,Maize,TR1,0,1.28
+1670,Tanzania,RCBD,Mbozi,Maize,TR2,1,0.87
+1671,Tanzania,RCBD,Mbozi,Maize,TR3,2,0.85
+1672,Tanzania,RCBD,Mbozi,Maize,TR4,3,1.09
+1673,Tanzania,RCBD,Mbozi,Maize,TR5,4.5,1.81
+1674,Tanzania,RCBD,Mbozi,Maize,TR6,5.5,1.61
+1675,Tanzania,RCBD,Mbozi,Maize,TR7,7,1.44
+1676,Tanzania,RCBD,Mbozi,Maize,TR1,0,0.43
+1677,Tanzania,RCBD,Mbozi,Maize,TR2,1,1.25
+1678,Tanzania,RCBD,Mbozi,Maize,TR3,2,1.59
+1679,Tanzania,RCBD,Mbozi,Maize,TR4,3,1.6
+1680,Tanzania,RCBD,Mbozi,Maize,TR5,4.5,1.36
+1681,Tanzania,RCBD,Mbozi,Maize,TR7,7,1.64
+1682,Tanzania,RCBD,Mbozi,Maize,TR1,0,1.06
+1683,Tanzania,RCBD,Mbozi,Maize,TR2,1,2.03
+1684,Tanzania,RCBD,Mbozi,Maize,TR3,2,1.32
+1685,Tanzania,RCBD,Mbozi,Maize,TR4,3,1.34
+1686,Tanzania,RCBD,Mbozi,Maize,TR5,4.5,1.72
+1687,Tanzania,RCBD,Mbozi,Maize,TR6,5.5,1.65
+1688,Tanzania,RCBD,Mbozi,Maize,TR7,7,3.1
+1689,Tanzania,RCBD,Mbozi,Maize,TR1,0,1.09
+1690,Tanzania,RCBD,Mbozi,Maize,TR2,1,1.23
+1691,Tanzania,RCBD,Mbozi,Maize,TR3,2,1.92
+1692,Tanzania,RCBD,Mbozi,Maize,TR4,3,1.62
+1693,Tanzania,RCBD,Mbozi,Maize,TR5,4.5,1.19
+1694,Tanzania,RCBD,Mbozi,Maize,TR6,5.5,1.8
+1695,Tanzania,RCBD,Mbozi,Maize,TR7,7,2.54
+1696,Tanzania,RCBD,Mbozi,Maize,TR1,0,2.17
+1697,Tanzania,RCBD,Mbozi,Maize,TR2,1,1.99
+1698,Tanzania,RCBD,Mbozi,Maize,TR3,2,4.24
+1699,Tanzania,RCBD,Mbozi,Maize,TR4,3,1.87
+1700,Tanzania,RCBD,Mbozi,Maize,TR5,4.5,2.25
+1701,Tanzania,RCBD,Mbozi,Maize,TR6,5.5,1.18
+1702,Tanzania,RCBD,Mbozi,Maize,TR7,7,3.59
+1703,Tanzania,Shotgun,Mbozi,Maize,TS1,0,1.68
+1704,Tanzania,Shotgun,Mbozi,Maize,TS2,1,2.07
+1705,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,2.32
+1706,Tanzania,Shotgun,Mbozi,Maize,TS4,7,2.14
+1707,Tanzania,Shotgun,Mbozi,Maize,TS1,0,2.03
+1708,Tanzania,Shotgun,Mbozi,Maize,TS2,1,3
+1709,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,4.58
+1710,Tanzania,Shotgun,Mbozi,Maize,TS4,7,3.83
+1711,Tanzania,Shotgun,Mbozi,Maize,TS1,0,1.59
+1712,Tanzania,Shotgun,Mbozi,Maize,TS2,1,3.03
+1713,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,2.71
+1714,Tanzania,Shotgun,Mbozi,Maize,TS4,7,4.32
+1715,Tanzania,Shotgun,Mbozi,Maize,TS1,0,1.7
+1716,Tanzania,Shotgun,Mbozi,Maize,TS2,1,2.47
+1717,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,3.31
+1718,Tanzania,Shotgun,Mbozi,Maize,TS4,7,5.19
+1719,Tanzania,Shotgun,Mbozi,Maize,TS1,0,1.39
+1720,Tanzania,Shotgun,Mbozi,Maize,TS2,1,2.41
+1721,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,2.59
+1722,Tanzania,Shotgun,Mbozi,Maize,TS4,7,3.17
+1723,Tanzania,Shotgun,Mbozi,Maize,TS1,0,1.74
+1724,Tanzania,Shotgun,Mbozi,Maize,TS2,1,2.81
+1725,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,3.33
+1726,Tanzania,Shotgun,Mbozi,Maize,TS4,7,3.13
+1727,Tanzania,Shotgun,Mbozi,Maize,TS1,0,2.66
+1728,Tanzania,Shotgun,Mbozi,Maize,TS2,1,5.64
+1729,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,7.47
+1730,Tanzania,Shotgun,Mbozi,Maize,TS4,7,7.09
+1731,Tanzania,Shotgun,Mbozi,Maize,TS1,0,1.46
+1732,Tanzania,Shotgun,Mbozi,Maize,TS2,1,2.06
+1733,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,2.38
+1734,Tanzania,Shotgun,Mbozi,Maize,TS4,7,3.21
+1735,Tanzania,Shotgun,Mbozi,Maize,TS1,0,1.15
+1736,Tanzania,Shotgun,Mbozi,Maize,TS2,1,1.45
+1737,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,1.65
+1738,Tanzania,Shotgun,Mbozi,Maize,TS4,7,1.94
+1739,Tanzania,Shotgun,Mbozi,Maize,TS1,0,1.03
+1740,Tanzania,Shotgun,Mbozi,Maize,TS2,1,1.68
+1741,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,2.27
+1742,Tanzania,Shotgun,Mbozi,Maize,TS4,7,3.76
+1743,Tanzania,Shotgun,Mbozi,Maize,TS1,0,1.22
+1744,Tanzania,Shotgun,Mbozi,Maize,TS2,1,2.2
+1745,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,2.19
+1746,Tanzania,Shotgun,Mbozi,Maize,TS4,7,3.49
+1747,Tanzania,Shotgun,Mbozi,Maize,TS1,0,1.13
+1748,Tanzania,Shotgun,Mbozi,Maize,TS2,1,2.57
+1749,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,2.7
+1750,Tanzania,Shotgun,Mbozi,Maize,TS4,7,3.89
+1751,Tanzania,Shotgun,Mbozi,Maize,TS1,0,2.1
+1752,Tanzania,Shotgun,Mbozi,Maize,TS2,1,3.65
+1753,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,4.66
+1754,Tanzania,Shotgun,Mbozi,Maize,TS4,7,5.6
+1755,Tanzania,Shotgun,Mbozi,Maize,TS1,0,2.07
+1756,Tanzania,Shotgun,Mbozi,Maize,TS2,1,2.46
+1757,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,2.89
+1758,Tanzania,Shotgun,Mbozi,Maize,TS4,7,3.62
+1759,Tanzania,Shotgun,Mbozi,Maize,TS1,0,0.97
+1760,Tanzania,Shotgun,Mbozi,Maize,TS2,1,0.92
+1761,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,1.18
+1762,Tanzania,Shotgun,Mbozi,Maize,TS4,7,1.39
+1763,Tanzania,Shotgun,Mbozi,Maize,TS1,0,1.51
+1764,Tanzania,Shotgun,Mbozi,Maize,TS2,1,4.4
+1765,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,3.63
+1766,Tanzania,Shotgun,Mbozi,Maize,TS4,7,3.81
+1767,Tanzania,Shotgun,Mbozi,Maize,TS1,0,0.47
+1768,Tanzania,Shotgun,Mbozi,Maize,TS2,1,1.31
+1769,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,1.73
+1770,Tanzania,Shotgun,Mbozi,Maize,TS4,7,1.65
+1771,Tanzania,Shotgun,Mbozi,Maize,TS1,0,1.66
+1772,Tanzania,Shotgun,Mbozi,Maize,TS2,1,2.4
+1773,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,4.35
+1774,Tanzania,Shotgun,Mbozi,Maize,TS4,7,4.46
+1775,Tanzania,Shotgun,Mbozi,Maize,TS1,0,3.32
+1776,Tanzania,Shotgun,Mbozi,Maize,TS2,1,3.8
+1777,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,2.83
+1778,Tanzania,Shotgun,Mbozi,Maize,TS4,7,2.89
+1779,Tanzania,Shotgun,Mbozi,Maize,TS1,0,0.47
+1780,Tanzania,Shotgun,Mbozi,Maize,TS2,1,2.54
+1781,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,2.89
+1782,Tanzania,Shotgun,Mbozi,Maize,TS4,7,1.31
+1783,Tanzania,Shotgun,Mbozi,Maize,TS1,0,2.11
+1784,Tanzania,Shotgun,Mbozi,Maize,TS2,1,1.99
+1785,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,2.88
+1786,Tanzania,Shotgun,Mbozi,Maize,TS4,7,3.33
+1787,Tanzania,Shotgun,Mbozi,Maize,TS1,0,1.6
+1788,Tanzania,Shotgun,Mbozi,Maize,TS2,1,3.42
+1789,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,3.8
+1790,Tanzania,Shotgun,Mbozi,Maize,TS4,7,4.19
+1791,Tanzania,Shotgun,Mbozi,Maize,TS1,0,1.28
+1792,Tanzania,Shotgun,Mbozi,Maize,TS2,1,2.65
+1793,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,2.97
+1794,Tanzania,Shotgun,Mbozi,Maize,TS4,7,3.08
+1795,Tanzania,Shotgun,Mbozi,Maize,TS1,0,2.18
+1796,Tanzania,Shotgun,Mbozi,Maize,TS2,1,2.58
+1797,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,3.78
+1798,Tanzania,Shotgun,Mbozi,Maize,TS4,7,3.93
+1799,Tanzania,Shotgun,Mbozi,Maize,TS1,0,0.94
+1800,Tanzania,Shotgun,Mbozi,Maize,TS2,1,2.68
+1801,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,2.32
+1802,Tanzania,Shotgun,Mbozi,Maize,TS4,7,2.43
+1803,Tanzania,Shotgun,Mbozi,Maize,TS1,0,2.21
+1804,Tanzania,Shotgun,Mbozi,Maize,TS2,1,2.73
+1805,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,3.61
+1806,Tanzania,Shotgun,Mbozi,Maize,TS4,7,4.5
+1807,Tanzania,Shotgun,Mbozi,Maize,TS1,0,2.06
+1808,Tanzania,Shotgun,Mbozi,Maize,TS2,1,3.14
+1809,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,2.35
+1810,Tanzania,Shotgun,Mbozi,Maize,TS4,7,4.22
+1811,Tanzania,Shotgun,Mbozi,Maize,TS1,0,5.11
+1812,Tanzania,Shotgun,Mbozi,Maize,TS2,1,5.84
+1813,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,6.8
+1814,Tanzania,Shotgun,Mbozi,Maize,TS4,7,5.37
+1815,Tanzania,Shotgun,Mbozi,Maize,TS1,0,1.62
+1816,Tanzania,Shotgun,Mbozi,Maize,TS2,1,4.03
+1817,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,3.95
+1818,Tanzania,Shotgun,Mbozi,Maize,TS4,7,3.82
+1819,Tanzania,Shotgun,Mbozi,Maize,TS1,0,2.81
+1820,Tanzania,Shotgun,Mbozi,Maize,TS2,1,4.56
+1821,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,3.63
+1822,Tanzania,Shotgun,Mbozi,Maize,TS4,7,2.88
+1823,Tanzania,Shotgun,Mbozi,Maize,TS1,0,0.67
+1824,Tanzania,Shotgun,Mbozi,Maize,TS2,1,1.09
+1825,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,1.22
+1826,Tanzania,Shotgun,Mbozi,Maize,TS4,7,1.53
+1827,Tanzania,Shotgun,Mbozi,Maize,TS1,0,1.29
+1828,Tanzania,Shotgun,Mbozi,Maize,TS2,1,2.21
+1829,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,2.83
+1830,Tanzania,Shotgun,Mbozi,Maize,TS4,7,2.57
+1831,Tanzania,Shotgun,Mbozi,Maize,TS1,0,2.06
+1832,Tanzania,Shotgun,Mbozi,Maize,TS2,1,1.69
+1833,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,2.39
+1834,Tanzania,Shotgun,Mbozi,Maize,TS4,7,3
+1835,Tanzania,Shotgun,Mbozi,Maize,TS1,0,2.7
+1836,Tanzania,Shotgun,Mbozi,Maize,TS2,1,2.29
+1837,Tanzania,Shotgun,Mbozi,Maize,TS3,2.5,2.86
+1838,Tanzania,Shotgun,Mbozi,Maize,TS4,7,3.83

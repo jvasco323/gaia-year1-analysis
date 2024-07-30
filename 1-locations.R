@@ -7,10 +7,18 @@ library(sf)
 df <- read.csv(paste0(dir, '/first-year/gaia-trials-year1.csv'))
 df <- subset(df, trial_type == 'Shotgun')
 # make map
+
+path <- 'D:/# Jvasco/Working Papers/GAIA Guiding Acid Soil Investments/2-yield-response/#-bisrat-clean/data/final_data/year_1/'
+rwa <- read.csv(paste0(path, 'gaia_trials_Rwanda_season1_shotgun.csv'))
+
+
 map <- 
-  df[!is.na(df$lon),] %>%
-  st_as_sf(coords = c("long", "lat")) %>%
+  rwa[!is.na(rwa$lng),] %>%
+  st_as_sf(coords = c("lng", "lat")) %>%
   st_set_crs(4326)
+
+mapview::mapview(map)
+
 rwa <- subset(map, country=='Rwanda')
 plot(st_geometry(rwa[rwa$district_gadm=='Nyaruguru',]))
 

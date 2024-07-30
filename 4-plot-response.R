@@ -48,6 +48,130 @@ freq_cal <- function(var){
 # ------------------------------------------------------------------------------
 # plotting
 
+site_plot <- function(df_cereal, df_legume, site){
+  for(t in c('T2', 'T3', 'T4')){
+    site_cereal <- subset(df_cereal, admin2_gadm == site)
+    site_legume <- subset(df_legume, admin2_gadm == site)
+    if(t == 'T2'){
+      x <- sort(unique(round(site_cereal$respT2, 2)))
+      table_x <- table(x)
+      cumsum_table_x <- cumsum(table_x) 
+      data_freq <- freq_cal(site_cereal$respT2)
+      lines(data_freq$x, data_freq$Prob_CS, lwd=1.5, col=viridis::viridis(7)[2])
+      points(data_freq$x, data_freq$Prob_CS, cex=1.5, pch=21, bg=viridis::viridis(7)[2])
+      x <- sort(unique(round(site_legume$respT2, 2)))
+      table_x <- table(x)
+      cumsum_table_x <- cumsum(table_x) 
+      data_freq <- freq_cal(site_legume$respT2)
+      lines(data_freq$x, data_freq$Prob_CS, lwd=1.5, col=viridis::viridis(7)[5])
+      points(data_freq$x, data_freq$Prob_CS, cex=1.5, pch=21, bg=viridis::viridis(7)[5]) }
+    if(t == 'T3'){
+      x <- sort(unique(round(site_cereal$respT3, 2)))
+      table_x <- table(x)
+      cumsum_table_x <- cumsum(table_x) 
+      data_freq <- freq_cal(site_cereal$respT3)
+      lines(data_freq$x, data_freq$Prob_CS, lwd=1.5, col=viridis::viridis(7)[2])
+      points(data_freq$x, data_freq$Prob_CS, cex=1.5, pch=22, bg=viridis::viridis(7)[2]) 
+      x <- sort(unique(round(site_legume$respT3, 2)))
+      table_x <- table(x)
+      cumsum_table_x <- cumsum(table_x) 
+      data_freq <- freq_cal(site_legume$respT3)
+      lines(data_freq$x, data_freq$Prob_CS, lwd=1.5, col=viridis::viridis(7)[5])
+      points(data_freq$x, data_freq$Prob_CS, cex=1.5, pch=22, bg=viridis::viridis(7)[5]) } 
+    if(t == 'T4'){
+      x <- sort(unique(round(site_cereal$respT4, 2))) 
+      table_x <- table(x)
+      cumsum_table_x <- cumsum(table_x) 
+      data_freq <- freq_cal(site_cereal$respT4)
+      lines(data_freq$x, data_freq$Prob_CS, lwd=1.5, col=viridis::viridis(7)[2])
+      points(data_freq$x, data_freq$Prob_CS, cex=1.5, pch=24, bg=viridis::viridis(7)[2]) 
+      x <- sort(unique(round(site_legume$respT4, 2)))
+      table_x <- table(x)
+      cumsum_table_x <- cumsum(table_x) 
+      data_freq <- freq_cal(site_legume$respT4)
+      lines(data_freq$x, data_freq$Prob_CS, lwd=1.5, col=viridis::viridis(7)[5])
+      points(data_freq$x, data_freq$Prob_CS, cex=1.5, pch=24, bg=viridis::viridis(7)[5]) } }  
+  }
+
+png(paste0(dir, "output-data/cumulative-probability-site.png"), units="in", width=7, height=10, res=1000)
+par(mfrow=c(3,2), mar=c(4,4,1,1), mgp=c(2.75,0.75,0), cex.axis=1.5, cex.lab=1.6, xaxs='i', yaxs='i', las=1)
+# plot 1
+plot(0,0, col='white', ylim=c(0,1), xlim=c(-2,5), 
+     xlab='Yield response to lime (t/ha)', ylab='Cumulative probability (%)')
+grid(nx=NULL, ny=NULL)
+abline(v=0)
+abline(h=0.5, lty=2, col=2)
+site_plot(df_cereal=maize, df_legume=legumes, site='Jimma')
+text(-1, 0.9, 'A) JIM', cex=1.55)
+legend("bottomright", bty='n', ncol=1, cex=1.3, lwd=2, legend=c('Maize T2', 'Maize T3', 'Maize T4', 'Soybean T2', 'Soybean T3', 'Soybean T4'), pch=c(21,22,24), lty=1, 
+       col=c(rep(viridis::viridis(7)[2], 3), rep(viridis::viridis(7)[5], 3)), 
+       pt.bg=c(rep(viridis::viridis(7)[2], 3), rep(viridis::viridis(7)[5], 3))) 
+box()
+# plot 2
+plot(0,0, col='white', ylim=c(0,1), xlim=c(-2,5), 
+     xlab='Yield response to lime (t/ha)', ylab='Cumulative probability (%)')
+grid(nx=NULL, ny=NULL)
+abline(v=0)
+abline(h=0.5, lty=2, col=2)
+site_plot(df_cereal=maize, df_legume=bean, site='Geita')
+text(-1, 0.9, 'B) GEI', cex=1.55)
+legend("bottomright", bty='n', ncol=1, cex=1.3, lwd=2, legend=c('Maize T2', 'Maize T3', 'Maize T4', 'Bean T2', 'Bean T3', 'Bean T4'), pch=c(21,22,24), lty=1, 
+       col=c(rep(viridis::viridis(7)[2], 3), rep(viridis::viridis(7)[5], 3)), 
+       pt.bg=c(rep(viridis::viridis(7)[2], 3), rep(viridis::viridis(7)[5], 3))) 
+box()
+# plot 3
+plot(0,0, col='white', ylim=c(0,1), xlim=c(-2,5), 
+     xlab='Yield response to lime (t/ha)', ylab='Cumulative probability (%)')
+grid(nx=NULL, ny=NULL)
+abline(v=0)
+abline(h=0.5, lty=2, col=2)
+site_plot(df_cereal=maize, df_legume=bean, site='Mbozi')
+text(-1, 0.9, 'C) MBO', cex=1.55)
+legend("bottomright", bty='n', ncol=1, cex=1.3, lwd=2, legend=c('Maize T2', 'Maize T3', 'Maize T4', 'Bean T2', 'Bean T3', 'Bean T4'), pch=c(21,22,24), lty=1, 
+       col=c(rep(viridis::viridis(7)[2], 3), rep(viridis::viridis(7)[5], 3)), 
+       pt.bg=c(rep(viridis::viridis(7)[2], 3), rep(viridis::viridis(7)[5], 3))) 
+box()
+# plot 4
+plot(0,0, col='white', ylim=c(0,1), xlim=c(-2,5), 
+     xlab='Yield response to lime (t/ha)', ylab='Cumulative probability (%)')
+grid(nx=NULL, ny=NULL)
+abline(v=0)
+abline(h=0.5, lty=2, col=2)
+site_plot(df_cereal=maize, df_legume=bean, site='Burera')
+text(-1, 0.9, 'D) BUR', cex=1.55)
+legend("bottomright", bty='n', ncol=1, cex=1.3, lwd=2, legend=c('Maize T2', 'Maize T3', 'Maize T4', 'Bean T2', 'Bean T3', 'Bean T4'), pch=c(21,22,24), lty=1, 
+       col=c(rep(viridis::viridis(7)[2], 3), rep(viridis::viridis(7)[5], 3)), 
+       pt.bg=c(rep(viridis::viridis(7)[2], 3), rep(viridis::viridis(7)[5], 3))) 
+box()
+# plot 5
+plot(0,0, col='white', ylim=c(0,1), xlim=c(-2,5), 
+     xlab='Yield response to lime (t/ha)', ylab='Cumulative probability (%)')
+grid(nx=NULL, ny=NULL)
+abline(v=0)
+abline(h=0.5, lty=2, col=2)
+site_plot(df_cereal=maize, df_legume=bean, site='Ngororero')
+text(-1, 0.9, 'E) NGO', cex=1.55)
+legend("bottomright", bty='n', ncol=1, cex=1.3, lwd=2, legend=c('Maize T2', 'Maize T3', 'Maize T4', 'Bean T2', 'Bean T3', 'Bean T4'), pch=c(21,22,24), lty=1, 
+       col=c(rep(viridis::viridis(7)[2], 3), rep(viridis::viridis(7)[5], 3)), 
+       pt.bg=c(rep(viridis::viridis(7)[2], 3), rep(viridis::viridis(7)[5], 3))) 
+box()
+# plot 6
+plot(0,0, col='white', ylim=c(0,1), xlim=c(-2,5), 
+     xlab='Yield response to lime (t/ha)', ylab='Cumulative probability (%)')
+grid(nx=NULL, ny=NULL)
+abline(v=0)
+abline(h=0.5, lty=2, col=2)
+site_plot(df_cereal=maize, df_legume=bean, site='Nyaruguru')
+text(-1, 0.9, 'F) NYA', cex=1.55)
+legend("bottomright", bty='n', ncol=1, cex=1.3, lwd=2, legend=c('Maize T2', 'Maize T3', 'Maize T4', 'Bean T2', 'Bean T3', 'Bean T4'), pch=c(21,22,24), lty=1, 
+       col=c(rep(viridis::viridis(7)[2], 3), rep(viridis::viridis(7)[5], 3)), 
+       pt.bg=c(rep(viridis::viridis(7)[2], 3), rep(viridis::viridis(7)[5], 3))) 
+box()
+dev.off()
+
+# ------------------------------------------------------------------------------
+# plotting
+
 for(t in c('T2', 'T3', 'T4')){
   png(paste0(dir, "output-data/cumulative-probability-", t, ".png"), units="in", width=9.5, height=9.5, res=1000)
   par(mfrow=c(2,2), mar=c(4,4,1,1), mgp=c(2.75,0.75,0), cex.axis=1.4, cex.lab=1.5, xaxs='i', yaxs='i', las=1)
